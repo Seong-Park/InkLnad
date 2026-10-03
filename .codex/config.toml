@@ -1,0 +1,9 @@
+[mcp_servers.ink_land_godot]
+command = 'C:\Program Files\nodejs\node.exe'
+args = ['C:\workspace\Ink-Land\tools\godot-mcp\dist\index.js']
+startup_timeout_sec = 30
+tool_timeout_sec = 30
+
+[mcp_servers.ink_land_godot.env]
+GODOT_BIN = 'C:\Users\pjs93\Downloads\Godot_v4.7.2-stable_win64.exe\Godot_v4.7.2-stable_win64_console.exe'
+GODOT_MCP_BRIDGE_URL = 'ws://127.0.0.1:9080'

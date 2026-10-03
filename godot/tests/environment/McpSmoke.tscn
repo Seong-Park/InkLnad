@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://du8pc0pd1xqoa"]
+
+[ext_resource type="Script" uid="uid://b6by3otewaxpu" path="res://tests/environment/smoke.gd" id="1_eiini"]
+
+[node name="McpSmoke" type="Node" unique_id=2028222992]
+
+[node name="DiskProbe" type="Node" parent="." unique_id=1521310946]
+script = ExtResource("1_eiini")
+
+[node name="LiveProbe" type="Node" parent="." unique_id=519360565]

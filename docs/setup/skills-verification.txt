@@ -1,0 +1,12 @@
+PASS camera-systems: identical source and references
+PASS godot-2d-movement: identical source and references
+PASS godot-animation: identical source and references
+PASS godot-export: identical source and references
+PASS godot-gdscript: identical source and references
+PASS godot-gdscript-headless-testing: identical source and references
+PASS godot-nodes-scenes: identical source and references
+PASS godot-physics: identical source and references
+PASS godot-signals-groups: identical source and references
+PASS godot-ui-control: identical source and references
+PASS save-systems: identical source and references
+PASS self-learning: identical source and references

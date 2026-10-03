@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-03",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "node": "24.12.0",
+  "git": "2.47.0.windows.2",
+  "sources": [
+    {
+      "skills": [
+        "godot-gdscript",
+        "godot-nodes-scenes",
+        "godot-signals-groups",
+        "godot-ui-control",
+        "godot-2d-movement",
+        "godot-physics",
+        "godot-animation",
+        "godot-export",
+        "godot-gdscript-headless-testing",
+        "camera-systems",
+        "save-systems"
+      ],
+      "repository": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "license": "Apache-2.0",
+      "commit": "d4b0e35550c55ae70bdfcab4ef5a0e94610438a9"
+    },
+    {
+      "skills": [
+        "self-learning"
+      ],
+      "repository": "https://github.com/kulaxyz/self-learning-skills",
+      "license": "MIT",
+      "commit": "1304fce375b5d4c4508cab9eea05bbb8b95c38f6"
+    },
+    {
+      "path": "tools/godot-mcp",
+      "bridge": "godot/addons/godot_mcp_bridge",
+      "commit": "25ccc4e201fcd2d43f952e19e39460daa43d45b0",
+      "repository": "https://github.com/YasiruRF/godot-mcp",
+      "license": "MIT",
+      "version": "0.2.0"
+    }
+  ]
+}

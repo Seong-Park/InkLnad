@@ -1,0 +1,6 @@
+godot/.godot/
+tools/godot-mcp/node_modules/
+tools/godot-mcp/dist/
+tmp/
+output/
+*.log

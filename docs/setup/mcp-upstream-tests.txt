@@ -1,0 +1,41 @@
+
+> @yasirurf/godot-mcp@0.2.0 test
+> npm run build && node --test
+
+
+> @yasirurf/godot-mcp@0.2.0 build
+> tsc -p tsconfig.json
+
+✔ exposes all 20 tools (297.4377ms)
+✔ file tools: list, read, create, add, edit, remove (321.1613ms)
+✔ script tools: write, read, edit (literally), res:// paths (305.4621ms)
+✔ refuses paths outside the project, including sibling folders with a shared prefix (286.4649ms)
+✔ rejects a project_path that is not a Godot project (287.2061ms)
+✔ run_headless reports a missing Godot binary clearly (2290.4972ms)
+✔ run_headless returns output and exit status (node stands in for Godot) (325.6765ms)
+✔ editor_* tools fail fast with a helpful message when Godot isn't running (360.9958ms)
+✔ editor_* tools speak the bridge protocol (387.5424ms)
+✔ live-edit tools send the right commands and arguments (353.0782ms)
+✔ an error reported by the editor bridge becomes an isError result (308.1059ms)
+✔ file tools refuse to edit a scene that is open in the editor, but only that scene and project (914.5741ms)
+✔ file tools reject GDScript-only values like RectangleShape2D.new() instead of corrupting the scene (281.4624ms)
+✔ an untouched Godot scene round-trips byte for byte (2.3005ms)
+✔ CRLF line endings are preserved (0.2681ms)
+✔ numeric-looking quoted values stay quoted (0.1891ms)
+✔ instanced nodes and header groups survive parsing (0.8405ms)
+✔ editing one property leaves the rest of the file untouched (0.2895ms)
+✔ setNodeProperties replaces an existing property in place (0.2777ms)
+✔ addNode inserts before [connection] blocks and keeps existing nodes intact (0.5019ms)
+✔ addNode appends cleanly to a freshly created scene (0.2216ms)
+✔ addNode rejects bad names, bad types, missing parents and duplicates (0.5403ms)
+✔ addExtResource keeps ext_resources contiguous, reuses duplicates and bumps load_steps once (0.4781ms)
+✔ removeNode removes descendants and the connections that pointed at them (1.0275ms)
+✔ removeNode refuses the root and unknown paths (0.3129ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 7073.8299

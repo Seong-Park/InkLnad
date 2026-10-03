@@ -1,0 +1,346 @@
+[
+  {
+    "tools": [
+      "list_project",
+      "read_scene",
+      "create_scene",
+      "add_node",
+      "remove_node",
+      "set_node_properties",
+      "write_script",
+      "read_script",
+      "edit_script",
+      "run_headless",
+      "editor_ping",
+      "editor_run_scene",
+      "editor_stop",
+      "editor_get_selection",
+      "editor_get_scene_tree",
+      "editor_open_scene",
+      "editor_add_node",
+      "editor_set_properties",
+      "editor_remove_node",
+      "editor_save_scene"
+    ]
+  },
+  {
+    "name": "list_project",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"scenes\": [],\n  \"scripts\": [\n    \"addons/godot_mcp_bridge/godot_mcp_bridge.gd\"\n  ],\n  \"resources\": []\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "create_scene",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "scene_path": "tests/environment/McpSmoke.tscn",
+      "root_name": "McpSmoke",
+      "root_type": "Node",
+      "overwrite": true
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Created tests/environment/McpSmoke.tscn with root node \"McpSmoke\" (Node)."
+        }
+      ]
+    }
+  },
+  {
+    "name": "write_script",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "script_path": "tests/environment/smoke.gd",
+      "content": "extends Node\n\nfunc _ready() -> void:\n\tif not get_parent().has_node(\"DiskProbe\") or not get_parent().has_node(\"LiveProbe\"):\n\t\tpush_error(\"Missing MCP probe nodes\")\n\t\tget_tree().quit(1)\n\t\treturn\n\tprint(\"INK_LAND_MCP_SMOKE_PASS\")\n\tget_tree().quit(0)\n"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Wrote tests/environment/smoke.gd (10 lines)."
+        }
+      ]
+    }
+  },
+  {
+    "name": "add_node",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "scene_path": "tests/environment/McpSmoke.tscn",
+      "parent_path": ".",
+      "name": "DiskProbe",
+      "type": "Node",
+      "script_path": "tests/environment/smoke.gd"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Added node \"DiskProbe\" (Node) under \".\" in tests/environment/McpSmoke.tscn."
+        }
+      ]
+    }
+  },
+  {
+    "name": "read_scene",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "scene_path": "tests/environment/McpSmoke.tscn"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "[\n  {\n    \"name\": \"McpSmoke\",\n    \"type\": \"Node\",\n    \"parent\": null,\n    \"path\": \".\",\n    \"properties\": {}\n  },\n  {\n    \"name\": \"DiskProbe\",\n    \"type\": \"Node\",\n    \"parent\": \".\",\n    \"path\": \"DiskProbe\",\n    \"properties\": {\n      \"script\": \"ExtResource(\\\"1_eiini\\\")\"\n    }\n  }\n]"
+        }
+      ]
+    }
+  },
+  {
+    "editor_stdout": "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\r\n"
+  },
+  {
+    "editor_stdout": "\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | Started 프로젝트 초기화 (5 steps)\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 파일 구조 스캔 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  16% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 전역 클래스 이름을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  33% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | GDExtensions 검증 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  50% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 오토로드 스크립트를 만드는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  66% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 플러그인을 초기화 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "godot_mcp_bridge: listening on ws://127.0.0.1:9080\r\n"
+  },
+  {
+    "editor_stdout": "[  83% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 파일 스캔 시작 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "\u001b[92m[ DONE ]\u001b[39m \u001b[1mfirst_scan_filesystem\u001b[22m\r\n\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | Started 편집기를 불러오는 중 (5 steps)\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 편집기 레이아웃을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  16% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 독을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "\u001b[92m[ DONE ]\u001b[39m \u001b[1mloading_editor_layout\u001b[22m\r\n\u001b[0m\r\n"
+  },
+  {
+    "name": "editor_ping",
+    "args": {},
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"editor\": \"godot-mcp-bridge\",\n  \"godot_version\": {\n    \"build\": \"official\",\n    \"hash\": \"ed1daf0bf001b61586d9930840f2f1394092c079\",\n    \"hex\": 263938,\n    \"major\": 4,\n    \"minor\": 7,\n    \"patch\": 2,\n    \"status\": \"stable\",\n    \"string\": \"4.7.2-stable (official)\",\n    \"timestamp\": 0\n  },\n  \"status\": \"alive\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "editor_open_scene",
+    "args": {
+      "scene_path": "res://tests/environment/McpSmoke.tscn"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"opened\": \"res://tests/environment/McpSmoke.tscn\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "editor_add_node",
+    "args": {
+      "parent_path": ".",
+      "name": "LiveProbe",
+      "type": "Node",
+      "scene_path": "res://tests/environment/McpSmoke.tscn"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"added\": \"LiveProbe\",\n  \"type\": \"Node\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "editor_get_scene_tree",
+    "args": {},
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"open_scenes\": [\n    \"res://tests/environment/McpSmoke.tscn\"\n  ],\n  \"scene\": \"res://tests/environment/McpSmoke.tscn\",\n  \"tree\": {\n    \"children\": [\n      {\n        \"children\": [],\n        \"name\": \"DiskProbe\",\n        \"path\": \"DiskProbe\",\n        \"type\": \"Node\"\n      },\n      {\n        \"children\": [],\n        \"name\": \"LiveProbe\",\n        \"path\": \"LiveProbe\",\n        \"type\": \"Node\"\n      }\n    ],\n    \"name\": \"McpSmoke\",\n    \"path\": \".\",\n    \"type\": \"Node\"\n  }\n}"
+        }
+      ]
+    }
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1msave\u001b[22m | Started 씬 저장 중 (4 steps)\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1msave\u001b[22m | 분석 중\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  20% ] \u001b[90m\u001b[1msave\u001b[22m | 썸네일 만드는 중\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  60% ] \u001b[90m\u001b[1msave\u001b[22m | 썸네일 만드는 중\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  80% ] \u001b[90m\u001b[1msave\u001b[22m | 씬 저장 중\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "\u001b[92m[ DONE ]\u001b[39m \u001b[1msave\u001b[22m\r\n\u001b[0m\r\n"
+  },
+  {
+    "name": "editor_save_scene",
+    "args": {},
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"saved\": \"res://tests/environment/McpSmoke.tscn\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "add_node",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "scene_path": "tests/environment/McpSmoke.tscn",
+      "parent_path": ".",
+      "name": "MustNotWrite",
+      "type": "Node"
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Error: res://tests/environment/McpSmoke.tscn is open in the Godot editor, so editing the file on disk would desync it from the editor (and one of the two saves would overwrite the other). Use editor_add_node / editor_set_properties / editor_remove_node to edit it live in the editor, or close the scene's tab in Godot first."
+        }
+      ],
+      "isError": true
+    }
+  },
+  {
+    "editor_stdout": "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\r\n"
+  },
+  {
+    "editor_stdout": "\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | Started 프로젝트 초기화 (5 steps)\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 파일 구조 스캔 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  16% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 전역 클래스 이름을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  33% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | GDExtensions 검증 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  50% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 오토로드 스크립트를 만드는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  66% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 플러그인을 초기화 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "godot_mcp_bridge: listening on ws://127.0.0.1:9080\r\n"
+  },
+  {
+    "editor_stdout": "[  83% ] \u001b[90m\u001b[1mfirst_scan_filesystem\u001b[22m | 파일 스캔 시작 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "\u001b[92m[ DONE ]\u001b[39m \u001b[1mfirst_scan_filesystem\u001b[22m\r\n\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | Started 편집기를 불러오는 중 (5 steps)\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[   0% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 편집기 레이아웃을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  16% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 독을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  33% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 씬을 다시 여는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  50% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 중앙 편집기 레이아웃을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  66% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 플러그인 창 레이아웃을 불러오는 중...\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "[  83% ] \u001b[90m\u001b[1mloading_editor_layout\u001b[22m | 편집기 레이아웃이 준비되었습니다.\u001b[39m\u001b[0m\r\n"
+  },
+  {
+    "editor_stdout": "\u001b[92m[ DONE ]\u001b[39m \u001b[1mloading_editor_layout\u001b[22m\r\n\u001b[0m\r\n"
+  },
+  {
+    "name": "editor_get_scene_tree",
+    "args": {},
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"open_scenes\": [\n    \"res://tests/environment/McpSmoke.tscn\"\n  ],\n  \"scene\": \"res://tests/environment/McpSmoke.tscn\",\n  \"tree\": {\n    \"children\": [\n      {\n        \"children\": [],\n        \"name\": \"DiskProbe\",\n        \"path\": \"DiskProbe\",\n        \"type\": \"Node\"\n      },\n      {\n        \"children\": [],\n        \"name\": \"LiveProbe\",\n        \"path\": \"LiveProbe\",\n        \"type\": \"Node\"\n      }\n    ],\n    \"name\": \"McpSmoke\",\n    \"path\": \".\",\n    \"type\": \"Node\"\n  }\n}"
+        }
+      ]
+    }
+  },
+  {
+    "name": "run_headless",
+    "args": {
+      "project_path": "C:\\workspace\\Ink-Land\\godot",
+      "scene_path": "tests/environment/McpSmoke.tscn",
+      "timeout_ms": 10000
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\r\n\r\nINK_LAND_MCP_SMOKE_PASS\r\n[exit code 0]"
+        }
+      ]
+    }
+  },
+  {
+    "status": "PASS",
+    "godot_version": "4.7.2.stable.official.ed1daf0bf"
+  }
+]
