@@ -20,15 +20,15 @@ Pinned MCP `@yasirurf/godot-mcp` 0.2.0 lives in `tools/godot-mcp/`; source, lock
 - Headless editor restarted and saved scene reopened; `LiveProbe` persisted in tree.
 - Real MCP `run_headless` on fixture: `INK_LAND_MCP_SMOKE_PASS`, `[exit code 0]`, no `SCRIPT ERROR`/`ERROR:`. Full evidence: `mcp-verification.json`.
 
-## Pending / limits
+## Pending / limits (updated after explicit approval)
 
-`codex mcp get ink_land_godot --json` did not recognize the project-local definition because this project is not yet trusted in the user's Codex configuration. An attempt to add only its trust entry was rejected by automatic approval review as a security boundary change not specifically authorized. The user's configuration was not modified. MCP transport and engine functionality passed through an independent SDK client; they have NOT yet been verified as tools in this chat. Restart/new-chat discovery of skills is likewise pending.
+Initially `codex mcp get ink_land_godot --json` did not recognize the project-local definition because the project was not trusted. After explicit user approval, only `[projects.'C:\workspace\Ink-Land'] trust_level = "trusted"` was appended to the user Codex configuration. A fresh `codex mcp get ink_land_godot --json` recognized the server with `enabled: true`, correct executable paths and environment. An attempt to add only its trust entry was rejected by automatic approval review as a security boundary change not specifically authorized. That rejected attempt made no changes; the later explicitly approved trust addition succeeded. Existing MCP settings were preserved. MCP transport and engine functionality passed through an independent SDK client; they have NOT yet been verified as tools in this chat. All thirteen project skills are now visible in this chat's skill catalog. Actual MCP tool discovery and calls in a restarted/new chat remain pending.
 
 The existing visible editor was not closed or replaced; its unsaved buffers were not touched. Verification used separate headless editors, which were stopped afterward. The old visible editor must reopen the project to load the newly installed plugin. GUI rendering/playback, export templates and produced game builds were not tested. The smoke scene is an isolated environment fixture, not a game feature.
 
 ## Minimum user actions
 
-1. In Codex, explicitly trust/open `C:/workspace/Ink-Land` as a trusted project (or approve addition of this project's trust entry). Project-local configuration is loaded only for trusted projects: [official MCP docs](https://developers.openai.com/codex/mcp).
+1. Completed after explicit approval: Ink-Land project trust entry added and MCP configuration recognized. Project-local configuration is loaded only for trusted projects: [official MCP docs](https://developers.openai.com/codex/mcp).
 2. Save any work in the existing Godot editor and reopen `godot/project.godot`. Check Project Settings → Plugins → Godot MCP Bridge enabled; Output should show `listening on ws://127.0.0.1:9080`. Keep only one bridge-enabled editor on this port.
 3. Restart Codex or open a new chat in this workspace. Confirm the twelve installed skills plus the project learned skill are discovered and server `ink_land_godot` is enabled. Request `editor_ping` and `editor_get_scene_tree`, verify project identity, then use the isolated fixture for one live edit/save/headless run.
 
@@ -43,3 +43,4 @@ Repeat verification (fixture scene closed and bridge port free): `node tools/ver
 Changed/new file groups: `.agents/skills/`, `.codex/config.toml`, `AGENTS.md`, `.gitignore`, `godot/project.godot`, `godot/addons/godot_mcp_bridge/`, `godot/tests/environment/`, `tools/godot-mcp/`, `tools/verify-godot-mcp.mjs`, `tools/open-godot.ps1`, `docs/setup/`. The bundled MCP sample project is retained solely because upstream tests copy it; it is outside the actual game project.
 
 During setup a separate `godot/addons/godot_ai/` (Godot AI 3.2.1) appeared at 15:01 KST. It was not installed or validated by this setup and is preserved as untracked user/external work, excluded from the setup commit. Do not assume it shares this MCP's protocol or bridge. Git had no configured author identity; the setup commit used `Codex <codex@localhost>` only for that command, without changing user Git settings. The tracked import evidence is `import-verification.txt` (the duplicate `.log` is ignored).
+
