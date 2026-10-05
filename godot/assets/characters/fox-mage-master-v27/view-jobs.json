@@ -1,0 +1,86 @@
+[
+  {
+    "direction": "se",
+    "angle": -45,
+    "id": "634b6212-215b-42fa-a098-091048b01882",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-se",
+    "created_at": 1791121564137,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  },
+  {
+    "direction": "e",
+    "angle": -90,
+    "id": "26c91824-0542-4195-b00e-75db6669d35a",
+    "task_type": "rotateSprite",
+    "status": "running",
+    "request_id": "ink-land-v27-master-view-e",
+    "created_at": 1791121567280,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 5000
+  },
+  {
+    "direction": "ne",
+    "angle": -135,
+    "id": "c18c1308-8860-4759-89ef-a8d927edb86d",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-ne",
+    "created_at": 1791121568857,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  },
+  {
+    "direction": "n",
+    "angle": 180,
+    "id": "b3abd33e-ee10-4ee0-9321-b9b269c436eb",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-n",
+    "created_at": 1791121570341,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  },
+  {
+    "direction": "nw",
+    "angle": 135,
+    "id": "ac384b70-e50f-40c6-9349-5950e29df95c",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-nw",
+    "created_at": 1791121572024,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  },
+  {
+    "direction": "w",
+    "angle": 90,
+    "id": "c1ed16ba-876c-440c-9e35-0c11d1ecb077",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-w",
+    "created_at": 1791121577333,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  },
+  {
+    "direction": "sw",
+    "angle": 45,
+    "id": "2ebeca54-1ee5-40e1-8839-464f17940f95",
+    "task_type": "rotateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-master-view-sw",
+    "created_at": 1791121578975,
+    "finished_at": null,
+    "credits_charged": 0.5,
+    "poll_after_ms": 2000
+  }
+]

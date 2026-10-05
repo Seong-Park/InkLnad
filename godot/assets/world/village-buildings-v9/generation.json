@@ -1,0 +1,36 @@
+{
+  "tool": "image_gen built-in",
+  "date": "2026-10-04",
+  "assets": [
+    {
+      "kind": "apothecary",
+      "file": "apothecary.png",
+      "source": "exec-6af9ab44-e31e-4e50-9150-cd0842f0e02e.png",
+      "prompt": "Create one original standalone 2D game building sprite for a watercolor eastern coastal village RPG. True transparent background. Elevated three-quarter top-down view, front and right wall visible, roof visible, camera elevation about 45 degrees. Korean hanok inspired curved tile roof, warm timber and cream plaster. Loose hand-painted watercolor with visible pigment blooms, translucent broken washes, paper-grain inside the building silhouette, subtle fine ink contours. Soft muted sage, indigo, cream, ochre palette. NOT glossy 3D, NOT vector, NOT pixel art. Full building and all its attached props entirely inside canvas, 10% transparent padding, foundation centered along bottom. No terrain patch, no cast shadow extending beyond foundation, no people, no text or lettering, no extra detached buildings. Readable silhouette at 300 pixels tall. A small apothecary potion shop. Sage green tiled roof, round herb-leaf pictogram wooden sign, dried medicinal herbs hanging under eaves, shelves of turquoise and amber potion bottles beside a welcoming front door, mortar and pestle, two small planters. Distinct compact L-shaped roof silhouette."
+    },
+    {
+      "kind": "tool-shop",
+      "file": "tool-shop.png",
+      "source": "exec-728ba0f1-453b-4b1a-9adc-e295b69ada26.png",
+      "prompt": "Create one original standalone 2D game building sprite for a watercolor eastern coastal village RPG. True transparent background. Elevated three-quarter top-down view, front and right wall visible, roof visible, camera elevation about 45 degrees. Korean hanok inspired curved tile roof, warm timber and cream plaster. Loose hand-painted watercolor with visible pigment blooms, translucent broken washes, paper-grain inside the building silhouette, subtle fine ink contours. Soft muted sage, indigo, cream, ochre palette. NOT glossy 3D, NOT vector, NOT pixel art. Full building and all its attached props entirely inside canvas, 10% transparent padding, foundation centered along bottom. No terrain patch, no cast shadow extending beyond foundation, no people, no text or lettering, no extra detached buildings. Readable silhouette at 300 pixels tall. An artist weapon/tool shop for a fox mage. Indigo blue tiled roof, very large upright calligraphy brush pictogram sign, brushes and magic pencils in ceramic pots on the porch, open wooden display bench with two brush tools, ink bowls. Broad one-story facade, welcoming shop door."
+    },
+    {
+      "kind": "outfit-shop",
+      "file": "outfit-shop.png",
+      "source": "exec-0ba989fd-296d-494e-a063-d17c8af47f22.png",
+      "prompt": "Create one original standalone 2D game building sprite for a watercolor eastern coastal village RPG. True transparent background. Elevated three-quarter top-down view, front and right wall visible, roof visible, camera elevation about 45 degrees. Korean hanok inspired curved tile roof, warm timber and cream plaster. Loose hand-painted watercolor with visible pigment blooms, translucent broken washes, paper-grain inside the building silhouette, subtle fine ink contours. Soft muted sage, indigo, cream, ochre palette. NOT glossy 3D, NOT vector, NOT pixel art. Full building and all its attached props entirely inside canvas, 10% transparent padding, foundation centered along bottom. No terrain patch, no cast shadow extending beyond foundation, no people, no text or lettering, no extra detached buildings. Readable silhouette at 300 pixels tall. An armor and clothing shop. Muted coral tiled roof, hanging robe pictogram sign, teal and cream cloth bolts displayed under a fabric awning, one empty wooden stand wearing a simple mage robe, folded scarves, a hanging hat. Tall narrow one-story facade."
+    },
+    {
+      "kind": "craft-workshop",
+      "file": "craft-workshop.png",
+      "source": "exec-a2c9fde5-fe76-498d-abb3-71c5c59e3578.png",
+      "prompt": "Create one original standalone 2D game building sprite for a watercolor eastern coastal village RPG. True transparent background. Elevated three-quarter top-down view, front and right wall visible, roof visible, camera elevation about 45 degrees. Korean hanok inspired curved tile roof, warm timber and cream plaster. Loose hand-painted watercolor with visible pigment blooms, translucent broken washes, paper-grain inside the building silhouette, subtle fine ink contours. Soft muted sage, indigo, cream, ochre palette. NOT glossy 3D, NOT vector, NOT pixel art. Full building and all its attached props entirely inside canvas, 10% transparent padding, foundation centered along bottom. No terrain patch, no cast shadow extending beyond foundation, no people, no text or lettering, no extra detached buildings. Readable silhouette at 300 pixels tall. A crafting workshop. Slate blue-gray tiled roof with a small brick chimney, open sheltered timber side work area, prominent sturdy workbench with a wooden mallet and brush handles, pigment jars and organized wood bundles, small crafting-tool pictogram sign. Wide asymmetric workshop silhouette."
+    },
+    {
+      "kind": "village-teahouse",
+      "file": "village-teahouse.png",
+      "source": "exec-e303d541-ad34-4af1-83f6-746b52e39504.png",
+      "prompt": "Create one original standalone 2D game building sprite for a watercolor eastern coastal village RPG. True transparent background. Elevated three-quarter top-down view, front and right wall visible, roof visible, camera elevation about 45 degrees. Korean hanok inspired curved tile roof, warm timber and cream plaster. Loose hand-painted watercolor with visible pigment blooms, translucent broken washes, paper-grain inside the building silhouette, subtle fine ink contours. Soft muted sage, indigo, cream, ochre palette. NOT glossy 3D, NOT vector, NOT pixel art. Full building and all its attached props entirely inside canvas, 10% transparent padding, foundation centered along bottom. No terrain patch, no cast shadow extending beyond foundation, no people, no text or lettering, no extra detached buildings. Readable silhouette at 300 pixels tall. A peaceful teahouse. Warm straw and sage tiled roof, open wooden veranda with floor cushions and a low table with ceramic teapot and two cups, cream paper lantern with a small leaf pictogram, bamboo planter beside entrance. Low relaxed horizontal silhouette."
+    }
+  ]
+}

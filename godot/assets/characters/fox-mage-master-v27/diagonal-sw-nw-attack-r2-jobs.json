@@ -1,0 +1,26 @@
+[
+  {
+    "facing": "sw",
+    "state": "attack-r2",
+    "id": "1aa82ca0-de21-44cd-8bcc-85d565299579",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-sw-attack-fixed-facing-r2",
+    "created_at": 1791128141568,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "nw",
+    "state": "attack-r2",
+    "id": "4d56a780-99a9-4270-8ab2-c77d68f0871c",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-nw-attack-fixed-facing-r2",
+    "created_at": 1791128142111,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]

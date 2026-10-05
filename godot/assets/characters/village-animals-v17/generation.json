@@ -1,0 +1,22 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-04",
+  "grid": {
+    "columns": 4,
+    "rows": 2
+  },
+  "prompts": [
+    {
+      "key": "sleep-cat",
+      "prompt": "Watercolor RPG game sprite sheet, STRICT 4 columns x 2 rows, eight equal cells. True transparent background. No grid lines, captions, scenery, shadows. Full animal stays entirely inside each cell with generous margins. Loose hand-painted watercolor, mottled pigment and grain inside subject, warm delicate pencil edges, soft bleeding watercolor, no vector/no3D. Consistent same animal identity scale and body center across all frames, face RIGHT slightly elevated three-quarter view. Orange and white cat sleeping peacefully curled into a soft ball, tail wrapped around body, eyes CLOSED, head resting on front paws. ALL eight frames depict same sleeping pose. Subtle four phase slow breathing loop repeated in row two, tiny ear twitch, absolutely no walking/standing/open eyes."
+    },
+    {
+      "key": "sleep-dog",
+      "prompt": "Watercolor RPG game sprite sheet, STRICT 4 columns x 2 rows, eight equal cells. True transparent background. No grid lines, captions, scenery, shadows. Full animal stays entirely inside each cell with generous margins. Loose hand-painted watercolor, mottled pigment and grain inside subject, warm delicate pencil edges, soft bleeding watercolor, no vector/no3D. Consistent same animal identity scale and body center across all frames, face RIGHT slightly elevated three-quarter view. Cream Jindo puppy sleeping peacefully on its side curled slightly, nose on front paws, eyes CLOSED, floppy relaxed ears, soft curled tail. ALL eight frames same sleeping pose with subtle four phase slow breathing loop repeated row two. No walking/standing/open eyes."
+    },
+    {
+      "key": "sparrow-flight",
+      "prompt": "Watercolor RPG game sprite sheet, STRICT 4 columns x 2 rows, eight equal cells. True transparent background. No grid lines, captions, scenery, shadows. Full animal stays entirely inside each cell with generous margins. Loose hand-painted watercolor, mottled pigment and grain inside subject, warm delicate pencil edges, soft bleeding watercolor, no vector/no3D. Consistent same animal identity scale and body center across all frames, face RIGHT slightly elevated three-quarter view. Small brown and cream sparrow with russet wings. Top row four standing perched idle poses: open eyes, blink, head tilt, open eyes, folded wings, feet on same baseline. Bottom row four AIRBORNE flying wingbeat frames: wings raised, wings outward midway, wings lowered, wings midway returning upwards. Feet tucked. Bird torso fixed at same CENTER throughout bottom row, actual feathered wings move around it. No ground pose in bottom row. Keep wing tips fully inside each cell. Consistent modest wing span and bird body scale across idle and flight."
+    }
+  ]
+}

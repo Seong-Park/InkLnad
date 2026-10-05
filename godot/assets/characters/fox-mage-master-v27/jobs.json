@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-04",
+  "master": "master.png",
+  "source": "../fox-mage-idle-v25/idle-s-expressive.png",
+  "source_cell": [
+    0,
+    0,
+    384,
+    512
+  ],
+  "method": "Exact atlas cell extraction; no redrawing/resizing/color edits.",
+  "model": "hydra",
+  "duration": 3,
+  "frames_requested": 36,
+  "frame_size": -9,
+  "jobs": {
+    "idle": "f61b5ffc-cd66-407f-b4c7-e8e8f9710891",
+    "walk": "2cb5452f-d0e7-4753-aa2c-4f79bd950ccc",
+    "attack": "17301785-a5c8-4e73-84f5-9945f1a31879"
+  }
+}

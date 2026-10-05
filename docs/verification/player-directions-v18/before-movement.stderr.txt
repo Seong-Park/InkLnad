@@ -1,0 +1,12 @@
+SCRIPT ERROR: Invalid access of index '15' on a base object of type: 'Array'.
+   at: PlayerController._align_portrait_frame (res://scripts/gameplay/player_controller.gd:55)
+   GDScript backtrace (most recent call first):
+       [0] _align_portrait_frame (res://scripts/gameplay/player_controller.gd:55)
+       [1] run (res://tests/integration/player_movement.gd:96)
+       [2] ticks (res://tests/integration/player_movement.gd:17)
+SCRIPT ERROR: Invalid access of index '15' on a base object of type: 'Array'.
+   at: PlayerController._align_portrait_frame (res://scripts/gameplay/player_controller.gd:55)
+   GDScript backtrace (most recent call first):
+       [0] _align_portrait_frame (res://scripts/gameplay/player_controller.gd:55)
+       [1] run (res://tests/integration/player_movement.gd:96)
+       [2] ticks (res://tests/integration/player_movement.gd:17)

@@ -10,14 +10,24 @@ config_version=5
 
 [application]
 
-config/name="godot"
+config/name="Inkland"
+run/main_scene="res://scenes/gameplay/Main.tscn"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 
+[autoload]
+
+_mcp_game_helper="*res://addons/godot_ai/runtime/game_helper.gd"
+
 [display]
 
+window/size/viewport_width=1280
+window/size/viewport_height=720
 window/stretch/mode="canvas_items"
-window/stretch/aspect="expand"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_ai/plugin.cfg")
 
 [physics]
 
@@ -26,9 +36,4 @@ window/stretch/aspect="expand"
 [rendering]
 
 rendering_device/driver.windows="d3d12"
-renderer/rendering_method="mobile"
-
-[editor_plugins]
-
-enabled=PackedStringArray("res://addons/godot_mcp_bridge/plugin.cfg")
-
+renderer/rendering_method="gl_compatibility"

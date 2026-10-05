@@ -1,0 +1,74 @@
+[
+  {
+    "direction": "se",
+    "id": "007171fc-2c85-4279-bba8-8c257e293174",
+    "task_type": "generatePose",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-corrected-diagonal-se",
+    "created_at": 1791122374646,
+    "finished_at": 1791122385983,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/21829eeee3da4e86acab22b058de8cff.webp",
+        "pose": "Other",
+        "description": "Neutral standing, torso and feet point diagonally down-right at45 degrees, front-right three-quarter view; both eyes visible, one shoulder nearer; same costume and orange fox tail behind hips.",
+        "motion_prompt": ""
+      }
+    ]
+  },
+  {
+    "direction": "sw",
+    "id": "57cc629f-19ce-410b-ac8c-292826ccc527",
+    "task_type": "generatePose",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-corrected-diagonal-sw",
+    "created_at": 1791122376177,
+    "finished_at": 1791122390343,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/144c6572c2b7c0917ac650a979dba3f3.webp",
+        "pose": "Other",
+        "description": "Neutral standing, torso and feet point diagonally down-left at45 degrees, front-left three-quarter view; both eyes visible, one shoulder nearer; same costume and orange fox tail behind hips.",
+        "motion_prompt": ""
+      }
+    ]
+  },
+  {
+    "direction": "ne",
+    "id": "b34d1ca7-76fb-4474-afc0-8e99c02fb22a",
+    "task_type": "generatePose",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-corrected-diagonal-ne",
+    "created_at": 1791122376899,
+    "finished_at": 1791122402469,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/7a5f73888ede3c4bb459b23d16c977d7.webp",
+        "pose": "Other",
+        "description": "Neutral standing facing diagonally up-right at45 degrees, rear-right three-quarter view, back of head and right cheek edge, orange fox tail with cream tip visible behind hips.",
+        "motion_prompt": ""
+      }
+    ]
+  },
+  {
+    "direction": "nw",
+    "id": "0ba98923-7b64-479b-9550-929790a23901",
+    "task_type": "generatePose",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-corrected-diagonal-nw",
+    "created_at": 1791122378395,
+    "finished_at": 1791122411273,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/8652ec6c2ab3f0b1cf1e4521129b7cff.webp",
+        "pose": "Other",
+        "description": "Neutral standing facing diagonally up-left at45 degrees, rear-left three-quarter view, back of head and left cheek edge, orange fox tail with cream tip visible behind hips.",
+        "motion_prompt": ""
+      }
+    ]
+  }
+]

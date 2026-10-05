@@ -1,0 +1,98 @@
+{
+  "godot": "C:/Users/pjs93/Downloads/Godot_v4.7.2-stable_win64.exe/Godot_v4.7.2-stable_win64_console.exe",
+  "project": "C:\\workspace\\Ink-Land\\godot",
+  "save_profile_isolated": true,
+  "suites": [
+    {
+      "name": "import",
+      "exit_code": 0,
+      "marker": null,
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "gameplay",
+      "exit_code": 0,
+      "marker": "INK_GAMEPLAY_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "economy",
+      "exit_code": 0,
+      "marker": "INK_ECONOMY_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "save",
+      "exit_code": 0,
+      "marker": "INK_SAVE_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "journey",
+      "exit_code": 0,
+      "marker": "INK_FIRST_JOURNEY_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "input-combat",
+      "exit_code": 0,
+      "marker": "INK_REAL_INPUT_COMBAT_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "player-motion",
+      "exit_code": 0,
+      "marker": "INK_PLAYER_MOVEMENT_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "mobile-hud",
+      "exit_code": 0,
+      "marker": "INK_MOBILE_HUD_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "player-skills",
+      "exit_code": 0,
+      "marker": "INK_PLAYER_SKILLS_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "name": "direction-size",
+      "exit_code": 0,
+      "marker": "INK_PLAYER_DIRECTION_SIZE_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "errors": [],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

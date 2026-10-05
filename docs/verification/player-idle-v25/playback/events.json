@@ -1,0 +1,232 @@
+[
+  {
+    "animation": "idle_e",
+    "events": [
+      {
+        "frame": 0,
+        "seconds": 0.001
+      },
+      {
+        "frame": 1,
+        "seconds": 1.838
+      },
+      {
+        "frame": 2,
+        "seconds": 2.587
+      },
+      {
+        "frame": 3,
+        "seconds": 3.336
+      },
+      {
+        "frame": 4,
+        "seconds": 3.47
+      },
+      {
+        "frame": 5,
+        "seconds": 3.586
+      },
+      {
+        "frame": 6,
+        "seconds": 3.72
+      },
+      {
+        "frame": 7,
+        "seconds": 4.419
+      },
+      {
+        "frame": 0,
+        "seconds": 5.171
+      },
+      {
+        "frame": 1,
+        "seconds": 7.153
+      }
+    ],
+    "loops": 1
+  },
+  {
+    "animation": "idle_s",
+    "events": [
+      {
+        "frame": 0,
+        "seconds": 0.006
+      },
+      {
+        "frame": 1,
+        "seconds": 1.838
+      },
+      {
+        "frame": 2,
+        "seconds": 2.587
+      },
+      {
+        "frame": 3,
+        "seconds": 3.336
+      },
+      {
+        "frame": 4,
+        "seconds": 3.47
+      },
+      {
+        "frame": 5,
+        "seconds": 3.586
+      },
+      {
+        "frame": 6,
+        "seconds": 3.72
+      },
+      {
+        "frame": 7,
+        "seconds": 4.419
+      },
+      {
+        "frame": 0,
+        "seconds": 5.171
+      },
+      {
+        "frame": 1,
+        "seconds": 7.153
+      }
+    ],
+    "loops": 1
+  },
+  {
+    "animation": "idle_se",
+    "events": [
+      {
+        "frame": 0,
+        "seconds": 0.006
+      },
+      {
+        "frame": 1,
+        "seconds": 1.838
+      },
+      {
+        "frame": 2,
+        "seconds": 2.587
+      },
+      {
+        "frame": 3,
+        "seconds": 3.336
+      },
+      {
+        "frame": 4,
+        "seconds": 3.47
+      },
+      {
+        "frame": 5,
+        "seconds": 3.586
+      },
+      {
+        "frame": 6,
+        "seconds": 3.72
+      },
+      {
+        "frame": 7,
+        "seconds": 4.419
+      },
+      {
+        "frame": 0,
+        "seconds": 5.171
+      },
+      {
+        "frame": 1,
+        "seconds": 7.153
+      }
+    ],
+    "loops": 1
+  },
+  {
+    "animation": "idle_ne",
+    "events": [
+      {
+        "frame": 0,
+        "seconds": 0.007
+      },
+      {
+        "frame": 1,
+        "seconds": 0.842
+      },
+      {
+        "frame": 2,
+        "seconds": 1.629
+      },
+      {
+        "frame": 3,
+        "seconds": 2.336
+      },
+      {
+        "frame": 4,
+        "seconds": 3.086
+      },
+      {
+        "frame": 5,
+        "seconds": 3.836
+      },
+      {
+        "frame": 6,
+        "seconds": 4.586
+      },
+      {
+        "frame": 7,
+        "seconds": 5.336
+      },
+      {
+        "frame": 0,
+        "seconds": 6.338
+      },
+      {
+        "frame": 1,
+        "seconds": 7.319
+      }
+    ],
+    "loops": 1
+  },
+  {
+    "animation": "idle_n",
+    "events": [
+      {
+        "frame": 0,
+        "seconds": 0.007
+      },
+      {
+        "frame": 1,
+        "seconds": 0.842
+      },
+      {
+        "frame": 2,
+        "seconds": 1.629
+      },
+      {
+        "frame": 3,
+        "seconds": 2.336
+      },
+      {
+        "frame": 4,
+        "seconds": 3.086
+      },
+      {
+        "frame": 5,
+        "seconds": 3.836
+      },
+      {
+        "frame": 6,
+        "seconds": 4.586
+      },
+      {
+        "frame": 7,
+        "seconds": 5.336
+      },
+      {
+        "frame": 0,
+        "seconds": 6.338
+      },
+      {
+        "frame": 1,
+        "seconds": 7.319
+      }
+    ],
+    "loops": 1
+  }
+]

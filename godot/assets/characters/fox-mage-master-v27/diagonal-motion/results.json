@@ -1,0 +1,194 @@
+[
+  {
+    "facing": "se",
+    "state": "idle",
+    "id": "e930af7e-bef3-4870-9bf1-2c4494898e44",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-se-idle-r1",
+    "created_at": 1791126904068,
+    "finished_at": 1791127071372,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/492a2892f8c7609f64b6f714e4a41d44.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/92a7b06f3e108036e306c00111c1a73a.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-b3f045868e6c2ab27d4e9e17eea690ba.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.5155537923177085
+    }
+  },
+  {
+    "facing": "se",
+    "state": "walk",
+    "id": "789e7e79-872f-4467-8c6c-487274b38e5e",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-se-walk-r1",
+    "created_at": 1791126904592,
+    "finished_at": 1791127072531,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/4b4c02a6af3d6ff5d70b5fe79b983114.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/811948732ba20c8bcace41a56a0eef22.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-b69185cbe7866c3681c04d035b3ddc5a.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.4443721064814814
+    }
+  },
+  {
+    "facing": "se",
+    "state": "attack",
+    "id": "f52d806e-80df-4797-87b5-7b565c535622",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-se-attack-r1",
+    "created_at": 1791126905123,
+    "finished_at": 1791127182597,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/95547129e5c8642b7e67b0122dbe53ac.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/4dde75ed5f353946e5cbb617371ba192.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-b8785faf7ae2974ea4a003a436913139.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.752742060908565
+    }
+  },
+  {
+    "facing": "ne",
+    "state": "idle",
+    "id": "07489ccf-7c8c-41c7-9d59-80b4cf124ecb",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-ne-idle-r1",
+    "created_at": 1791126905671,
+    "finished_at": 1791127202839,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/11896d7d138df98d4a5adcaae1dd55f3.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/d7fd09491e7df6584361f460854e054b.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-e9cdf65bd0de65bdd202561758d7afc9.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.116259539568866
+    }
+  },
+  {
+    "facing": "ne",
+    "state": "walk",
+    "id": "2d8f44ee-5895-4dad-97bd-169761f93f08",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-ne-walk-r1",
+    "created_at": 1791126906201,
+    "finished_at": 1791127352592,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/a17cacbe547fd7f541302f7ef65f8e23.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/b4ea386ccea6691cb284a11e1fc7fadb.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-08e75f14fdcb537c5fd657abd58b74e0.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.1388255931712963
+    }
+  },
+  {
+    "facing": "ne",
+    "state": "attack",
+    "id": "be71de80-6bad-4179-8efb-431b2efffd15",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-ne-attack-r1",
+    "created_at": 1791126906713,
+    "finished_at": 1791127357679,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/4c29551e4bf191b5946ddb90b8c6239f.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/4b65e1407fc7f1c6a89d43568f3071e4.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-fb5ba603593b390ea1b8aa0d53ceb8ce.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.7116563585069446
+    }
+  },
+  {
+    "facing": "nw",
+    "state": "idle",
+    "id": "1cf051f8-730a-4f53-83c6-e5b201424c6a",
+    "task_type": "rotateSpritesheet",
+    "status": "running",
+    "request_id": "ink-land-v27-diagonal-nw-idle-r1",
+    "created_at": 1791126907244,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "nw",
+    "state": "walk",
+    "id": "865c58f0-f473-4765-b221-01e33c9f933f",
+    "task_type": "rotateSpritesheet",
+    "status": "running",
+    "request_id": "ink-land-v27-diagonal-nw-walk-r1",
+    "created_at": 1791126907755,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "nw",
+    "state": "attack",
+    "id": "1e247e4b-140d-4d68-9c1f-a84876d6f433",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-nw-attack-r1",
+    "created_at": 1791126908262,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "sw",
+    "state": "idle",
+    "id": "10020460-be4c-4194-b51c-fe6374a8f785",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-sw-idle-r1",
+    "created_at": 1791127010673,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "sw",
+    "state": "walk",
+    "id": "e6c18bb2-66fb-4aaf-b1d0-42d2f4944ba9",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-sw-walk-r1",
+    "created_at": 1791127011226,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "sw",
+    "state": "attack",
+    "id": "3d46ec87-0c77-4931-9e58-eeef1f1ec73c",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-sw-attack-r1",
+    "created_at": 1791127011757,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]

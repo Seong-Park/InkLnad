@@ -1,0 +1,10 @@
+{
+  "id": "531d26a5-6d63-48ef-aeb8-edc66e3aa9fc",
+  "task_type": "generatePose",
+  "status": "running",
+  "request_id": "ink-land-v27-sw-attack-apex-keyframe-r1",
+  "created_at": 1791128848261,
+  "finished_at": null,
+  "credits_charged": 0.5,
+  "poll_after_ms": 5000
+}

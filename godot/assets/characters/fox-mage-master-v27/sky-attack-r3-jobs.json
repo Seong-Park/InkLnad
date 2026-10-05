@@ -1,0 +1,35 @@
+[
+  {
+    "facing": "n",
+    "id": "70e862ac-5161-4fa5-87f5-19f01943cc06",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-sky-attack-n-r3",
+    "created_at": 1791125860268,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "e",
+    "id": "811eba50-6f94-4a95-a3ed-d4eac13b37ca",
+    "task_type": "animateSprite",
+    "status": "running",
+    "request_id": "ink-land-v27-sky-attack-e-r3",
+    "created_at": 1791125861047,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "w",
+    "id": "f74ac9c7-7ae1-4157-9223-0b0e8ddaa6a4",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-sky-attack-w-r3",
+    "created_at": 1791125861554,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]

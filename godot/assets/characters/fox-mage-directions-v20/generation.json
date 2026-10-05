@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-04",
+  "method": "built-in image_gen",
+  "prompts": [
+    {
+      "key": "e",
+      "prompt": "Use reference for SAME watercolor fox girl mage identity, outfit and RIGHT side profile facing. NEW animation sheet STRICT 4 cols x2 rows =8 full-body walking poses in sequence, true transparent background, no scenery/grid/text/shadows. Orange bob hair fox ears sage cloak ivory tunic teal skirt brown boots brown belt pink potion wood crystal staff orange cream tail. CRITICAL FIX: EARS, HAIR and HANDS must visibly animate; do not copy frozen upper body across frames. Draw ears softly tilting 8-12 degrees alternating, bob hair tips flowing left then right with delayed motion, free arm swinging forward/back opposite stepping leg, STAFF HAND moving with wrist and elbow so brush tip arcs naturally by ~15 degrees. Keep gripping fingers connected, consistent anatomy. Torso and head CENTER stable and character size fixed, no translation/bouncing/scaling whole body. Eight gait phases: 1left contact earsneutral hairlagsback rightarmforward;2leftsettle earssoftbend hairback arms passing;3rightpassing earseasing haircenter staffhandlower;4rightlift earsupright hairforward freehandback;5rightcontact oppositeearbend staffhandback;6rightsettle hairforward armspassing;7leftpassing haircenter staffhandhigher;8leftlift earsreturn hairback freehandforward. Distinct poses for all8; long sleeves and hair contours must change. Natural restrained secondary motion, not flapping wings. Elevated RPG camera, watercolor texture and grain warm pencil contours. SAME facing RIGHT side profile throughout, entire staff and ears inside equal cells with transparent margins."
+    },
+    {
+      "key": "se",
+      "prompt": "Use reference for SAME watercolor fox girl mage identity, outfit and DOWN-RIGHT front three-quarter facing. NEW animation sheet STRICT 4 cols x2 rows =8 full-body walking poses in sequence, true transparent background, no scenery/grid/text/shadows. Orange bob hair fox ears sage cloak ivory tunic teal skirt brown boots brown belt pink potion wood crystal staff orange cream tail. CRITICAL FIX: EARS, HAIR and HANDS must visibly animate; do not copy frozen upper body across frames. Draw ears softly tilting 8-12 degrees alternating, bob hair tips flowing left then right with delayed motion, free arm swinging forward/back opposite stepping leg, STAFF HAND moving with wrist and elbow so brush tip arcs naturally by ~15 degrees. Keep gripping fingers connected, consistent anatomy. Torso and head CENTER stable and character size fixed, no translation/bouncing/scaling whole body. Eight gait phases: 1left contact earsneutral hairlagsback rightarmforward;2leftsettle earssoftbend hairback arms passing;3rightpassing earseasing haircenter staffhandlower;4rightlift earsupright hairforward freehandback;5rightcontact oppositeearbend staffhandback;6rightsettle hairforward armspassing;7leftpassing haircenter staffhandhigher;8leftlift earsreturn hairback freehandforward. Distinct poses for all8; long sleeves and hair contours must change. Natural restrained secondary motion, not flapping wings. Elevated RPG camera, watercolor texture and grain warm pencil contours. SAME facing DOWN-RIGHT front three-quarter throughout, entire staff and ears inside equal cells with transparent margins."
+    },
+    {
+      "key": "s",
+      "prompt": "Use reference for SAME watercolor fox girl mage identity, outfit and DOWN directly toward viewer front facing. NEW animation sheet STRICT 4 cols x2 rows =8 full-body walking poses in sequence, true transparent background, no scenery/grid/text/shadows. Orange bob hair fox ears sage cloak ivory tunic teal skirt brown boots brown belt pink potion wood crystal staff orange cream tail. CRITICAL FIX: EARS, HAIR and HANDS must visibly animate; do not copy frozen upper body across frames. Draw ears softly tilting 8-12 degrees alternating, bob hair tips flowing left then right with delayed motion, free arm swinging forward/back opposite stepping leg, STAFF HAND moving with wrist and elbow so brush tip arcs naturally by ~15 degrees. Keep gripping fingers connected, consistent anatomy. Torso and head CENTER stable and character size fixed, no translation/bouncing/scaling whole body. Eight gait phases: 1left contact earsneutral hairlagsback rightarmforward;2leftsettle earssoftbend hairback arms passing;3rightpassing earseasing haircenter staffhandlower;4rightlift earsupright hairforward freehandback;5rightcontact oppositeearbend staffhandback;6rightsettle hairforward armspassing;7leftpassing haircenter staffhandhigher;8leftlift earsreturn hairback freehandforward. Distinct poses for all8; long sleeves and hair contours must change. Natural restrained secondary motion, not flapping wings. Elevated RPG camera, watercolor texture and grain warm pencil contours. SAME facing DOWN directly toward viewer front throughout, entire staff and ears inside equal cells with transparent margins."
+    },
+    {
+      "key": "ne",
+      "prompt": "Use reference for SAME watercolor fox girl mage identity, outfit and UP-RIGHT rear three-quarter, face almost hidden facing. NEW animation sheet STRICT 4 cols x2 rows =8 full-body walking poses in sequence, true transparent background, no scenery/grid/text/shadows. Orange bob hair fox ears sage cloak ivory tunic teal skirt brown boots brown belt pink potion wood crystal staff orange cream tail. CRITICAL FIX: EARS, HAIR and HANDS must visibly animate; do not copy frozen upper body across frames. Draw ears softly tilting 8-12 degrees alternating, bob hair tips flowing left then right with delayed motion, free arm swinging forward/back opposite stepping leg, STAFF HAND moving with wrist and elbow so brush tip arcs naturally by ~15 degrees. Keep gripping fingers connected, consistent anatomy. Torso and head CENTER stable and character size fixed, no translation/bouncing/scaling whole body. Eight gait phases: 1left contact earsneutral hairlagsback rightarmforward;2leftsettle earssoftbend hairback arms passing;3rightpassing earseasing haircenter staffhandlower;4rightlift earsupright hairforward freehandback;5rightcontact oppositeearbend staffhandback;6rightsettle hairforward armspassing;7leftpassing haircenter staffhandhigher;8leftlift earsreturn hairback freehandforward. Distinct poses for all8; long sleeves and hair contours must change. Natural restrained secondary motion, not flapping wings. Elevated RPG camera, watercolor texture and grain warm pencil contours. SAME facing UP-RIGHT rear three-quarter, face almost hidden throughout, entire staff and ears inside equal cells with transparent margins."
+    },
+    {
+      "key": "n",
+      "prompt": "Use reference for SAME watercolor fox girl mage identity, outfit and UP full back, NO eyes or face facing. NEW animation sheet STRICT 4 cols x2 rows =8 full-body walking poses in sequence, true transparent background, no scenery/grid/text/shadows. Orange bob hair fox ears sage cloak ivory tunic teal skirt brown boots brown belt pink potion wood crystal staff orange cream tail. CRITICAL FIX: EARS, HAIR and HANDS must visibly animate; do not copy frozen upper body across frames. Draw ears softly tilting 8-12 degrees alternating, bob hair tips flowing left then right with delayed motion, free arm swinging forward/back opposite stepping leg, STAFF HAND moving with wrist and elbow so brush tip arcs naturally by ~15 degrees. Keep gripping fingers connected, consistent anatomy. Torso and head CENTER stable and character size fixed, no translation/bouncing/scaling whole body. Eight gait phases: 1left contact earsneutral hairlagsback rightarmforward;2leftsettle earssoftbend hairback arms passing;3rightpassing earseasing haircenter staffhandlower;4rightlift earsupright hairforward freehandback;5rightcontact oppositeearbend staffhandback;6rightsettle hairforward armspassing;7leftpassing haircenter staffhandhigher;8leftlift earsreturn hairback freehandforward. Distinct poses for all8; long sleeves and hair contours must change. Natural restrained secondary motion, not flapping wings. Elevated RPG camera, watercolor texture and grain warm pencil contours. SAME facing UP full back, NO eyes or face throughout, entire staff and ears inside equal cells with transparent margins."
+    }
+  ],
+  "layout_edits": [
+    {
+      "key": "se",
+      "prompt": "Edit this existing 8-frame walking sprite sheet. Keep the eight distinct upper-body poses, watercolor fox identity, moving ears, hair and hands exactly as source. FIX ONLY LAYOUT: 4 columns x 2 rows, each of EIGHT sprites must be scaled DOWN to 75% and centered independently inside its own equally sized cell. At least 45 pixels genuine transparent padding on EVERY side of every sprite in every cell. NO sprite touching any cell edge, NO parts crossing cell boundaries. Full boots, ears, tail and staff visible. Transparent background. Output landscape1536x1024. Preserve pose ordering and consistent sprite scale. No grid no text. Remove all background."
+    },
+    {
+      "key": "ne",
+      "prompt": "Edit this existing 8-frame walking sprite sheet. Keep the eight distinct upper-body poses, watercolor fox identity, moving ears, hair and hands exactly as source. FIX ONLY LAYOUT: 4 columns x 2 rows, each of EIGHT sprites must be scaled DOWN to 75% and centered independently inside its own equally sized cell. At least 45 pixels genuine transparent padding on EVERY side of every sprite in every cell. NO sprite touching any cell edge, NO parts crossing cell boundaries. Full boots, ears, tail and staff visible. Transparent background. Output landscape1536x1024. Preserve pose ordering and consistent sprite scale. No grid no text. Remove all background."
+    }
+  ],
+  "references": [
+    "godot/assets/characters/fox-mage-directions-v18/e.png",
+    "godot/assets/characters/fox-mage-directions-v18/se.png",
+    "godot/assets/characters/fox-mage-directions-v18/s.png",
+    "godot/assets/characters/fox-mage-directions-v18/ne.png",
+    "godot/assets/characters/fox-mage-directions-v18/n.png"
+  ],
+  "mirrors": {
+    "w": "e",
+    "sw": "se",
+    "nw": "ne"
+  },
+  "runtime_motion": "Eight walking poses plus phase-delayed local shader deformation of ears, hair, tail, cloak and skirt. Occasional eye closure on calibrated frame0. PNG alpha preserved.",
+  "output_files": [
+    "godot/assets/characters/fox-mage-directions-v20/e.png",
+    "godot/assets/characters/fox-mage-directions-v20/se.png",
+    "godot/assets/characters/fox-mage-directions-v20/s.png",
+    "godot/assets/characters/fox-mage-directions-v20/ne.png",
+    "godot/assets/characters/fox-mage-directions-v20/n.png"
+  ]
+}

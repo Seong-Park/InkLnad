@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[godot_ai game_helper] registered mcp capture (debugger active=false, logger=true)
+COMBAT C cleared=true HP=100.0 reward=24 player=(444.1504, 316.0622) enemies=[{ "spawn_id": "c01", "enemy_id": "drop", "hp": 0.0, "alive": false }, { "spawn_id": "c02", "enemy_id": "drop", "hp": 0.0, "alive": false }, { "spawn_id": "c03", "enemy_id": "drop", "hp": 0.0, "alive": false }] ink=71.9028515352525 holding=false modal=false anchor=(607.0927, 347.3845) viewport=[P: (0.0, 0.0), S: (1280.0, 720.0)]
+COMBAT E cleared=true HP=100.0 reward=74
+INK_REAL_INPUT_COMBAT_PASS

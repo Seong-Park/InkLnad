@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-04",
+  "method": "LUDO MCP",
+  "model": "Hydra",
+  "initial_image": "../fox-mage-ludo-v1/base.webp",
+  "walk_motion_prompt": "Walking in place diagonally down-right, natural arm and staff swing, gentle head nod and blinking, ears flexing, hair and skirt and cape fluttering, tail swaying. Fixed camera.",
+  "source_job": "23c31e99-1c99-41e9-bf83-143762b9637e",
+  "views": {
+    "e": {
+      "rotation_job": "7a19f596-e99a-4bfe-b45e-549bc0daaf7e",
+      "rotation": -90,
+      "animation_job": "c13c707c-0c60-4069-8f14-ec09678dbd13",
+      "frames": 36,
+      "columns": 6,
+      "rows": 6,
+      "motion_prompt": "Walking in place to the RIGHT of the frame, fixed right-facing side view. Natural ear, hair, tail and clothing motion."
+    },
+    "s": {
+      "rotation_job": "6c5f58f1-26b8-463a-af7e-648bf5210684",
+      "rotation": 0,
+      "animation_job": "858db5bc-b008-40f1-af5d-a1f275a58d26",
+      "frames": 36,
+      "columns": 6,
+      "rows": 6,
+      "motion_prompt": "Walking in place facing directly toward the camera. Keep the exact source gait and natural tail, hair, ear and clothing follow-through."
+    },
+    "ne": {
+      "rotation_job": "f20dec15-50bb-460e-9ffb-888e6f0455fa",
+      "rotation": -135,
+      "animation_job": "5fdf1285-20ed-4b64-a942-ccfec2798944",
+      "frames": 36,
+      "columns": 6,
+      "rows": 6,
+      "motion_prompt": "Walking in place diagonally UP RIGHT of the frame, rear three-quarter view with face hidden. Natural ear, hair, tail and clothing motion."
+    },
+    "n": {
+      "rotation_job": "35e8c4e4-33e4-4206-a45f-74458f14d16f",
+      "rotation": 180,
+      "animation_job": "98267c93-b177-468d-b7ac-feceee349e4f",
+      "frames": 36,
+      "columns": 6,
+      "rows": 6,
+      "motion_prompt": "Walking in place with back to camera, facing directly away. Keep the exact source gait and natural tail, hair, ear and clothing follow-through."
+    }
+  },
+  "files": [
+    "walk-e.webp",
+    "walk-se.webp",
+    "walk-s.webp",
+    "walk-ne.webp",
+    "walk-n.webp"
+  ],
+  "mirrors": {
+    "w": "e",
+    "sw": "se",
+    "nw": "ne"
+  },
+  "playback": {
+    "fps": 27,
+    "contact_frames": [
+      0,
+      9,
+      18,
+      27
+    ]
+  },
+  "notes": "LUDO native limb, weapon, tail and clothing motion with an ear/hair-only runtime supplement. Existing v18 idle art retains gentle shader motion. Native blink visible in front and down-right views. Generated URLs saved locally and not used by game. Initial rich request rejected; minimal request succeeded. RotateSprite azimuth was not enough to establish direction; final animation facing visually inspected."
+}

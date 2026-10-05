@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-04",
+  "method": "LUDO MCP Hydra",
+  "source_image": "../fox-mage-ludo-v1/base.webp",
+  "source_walk_job": "23c31e99-1c99-41e9-bf83-143762b9637e",
+  "walk_request": {
+    "initial_image": "../fox-mage-ludo-v1/base.webp",
+    "motion_prompt": "Walking in place diagonally down-right, natural arm and staff swing, gentle head nod and blinking, ears flexing, hair and skirt and cape fluttering, tail swaying. Fixed camera."
+  },
+  "source_walk": {
+    "num_frames": 36,
+    "num_cols": 6,
+    "num_rows": 6,
+    "duration": 2.4166666666666665
+  },
+  "views": {
+    "e": {
+      "id": "068973bb-2e51-41b4-8226-ba98c28eb4db",
+      "task_type": "rotateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v21-view-e",
+      "created_at": 1791101429941,
+      "finished_at": 1791101440083,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/1c3bd09b9b479dd2e8824ffa5f9e1767.webp",
+          "camera_rotation": 90,
+          "camera_elevation": 30
+        }
+      ]
+    },
+    "s": {
+      "id": "6c5f58f1-26b8-463a-af7e-648bf5210684",
+      "task_type": "rotateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v21-view-s",
+      "created_at": 1791101430379,
+      "finished_at": 1791101437028,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/5122e0a9079791e7bae6930fa110723f.webp",
+          "camera_rotation": 0,
+          "camera_elevation": 30
+        }
+      ]
+    },
+    "ne": {
+      "id": "0b57549b-eb50-4b56-b895-24863c06d0fe",
+      "task_type": "rotateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v21-view-ne",
+      "created_at": 1791101430808,
+      "finished_at": 1791101442846,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/f78618d87b4c82007fedd9ace7d59cc2.webp",
+          "camera_rotation": 135,
+          "camera_elevation": 30
+        }
+      ]
+    },
+    "n": {
+      "id": "35e8c4e4-33e4-4206-a45f-74458f14d16f",
+      "task_type": "rotateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v21-view-n",
+      "created_at": 1791101431236,
+      "finished_at": 1791101446088,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/6c58bf40fa5cfa661c556f91d784e392.webp",
+          "camera_rotation": 180,
+          "camera_elevation": 30
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "858db5bc-b008-40f1-af5d-a1f275a58d26",
+  "task_type": "rotateSpritesheet",
+  "status": "succeeded",
+  "request_id": "ink-land-v21-walk-s",
+  "created_at": 1791101516347,
+  "finished_at": 1791101636152,
+  "credits_charged": 9,
+  "result": {
+    "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/a6fc9642d0a58ece7716c4899234473b.webp",
+    "video_url": "https://storage.googleapis.com/ludo-assets/api/5a996b548e5010480b66cc2aa3467729.mp4",
+    "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-7fdb0ac740504d22d326ead4f6f943a6.gif",
+    "num_frames": 36,
+    "num_cols": 6,
+    "num_rows": 6,
+    "duration": 2.0688035753038196
+  }
+}

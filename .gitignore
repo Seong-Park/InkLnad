@@ -4,3 +4,4 @@ tools/godot-mcp/dist/
 tmp/
 output/
 *.log
+/.codex/config.toml

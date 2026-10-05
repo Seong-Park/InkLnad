@@ -1,0 +1,191 @@
+[
+  {
+    "facing": "e",
+    "state": "idle",
+    "id": "ae130172-7384-4ef1-b4bf-7d4376acf443",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-e-idle",
+    "created_at": 1791121673313,
+    "finished_at": 1791121778077,
+    "credits_charged": 9,
+    "poll_after_ms": 5000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/cdf61221d682bce5aae25312e6063347.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/50e9903f8276aa031c4a19a1fd9cf924.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-a8163600382f1f88566f611341748858.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.0364006890190973
+    }
+  },
+  {
+    "facing": "e",
+    "state": "walk",
+    "id": "a6665c0c-ae4c-4b23-b719-4524aa7009df",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-e-walk",
+    "created_at": 1791121673765,
+    "finished_at": 1791121798379,
+    "credits_charged": 9,
+    "poll_after_ms": 5000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/513ae2c37b13bdcd076672890faa81a4.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/dcb3e91657b700f7c4f8a1526ca63cb0.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-f9d173c79fd09d99db83d4d2b7f2db28.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.1388255931712963
+    }
+  },
+  {
+    "facing": "e",
+    "state": "attack",
+    "id": "02dd4505-cbb9-4e1d-afeb-380cf402031d",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-e-attack",
+    "created_at": 1791121674209,
+    "finished_at": 1791121872714,
+    "credits_charged": 9,
+    "poll_after_ms": 2000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/652946b2b56e64ed013fc3357d95260c.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/6c31d196f1afbc43d42b01fb34739e56.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-175ede065e7ac7a61cb1192bf8f7b28d.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.475624367042824
+    }
+  },
+  {
+    "facing": "w",
+    "state": "idle",
+    "id": "3a124829-b15d-4d28-8613-2d5338e05477",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-w-idle",
+    "created_at": 1791121674683,
+    "finished_at": 1791121900527,
+    "credits_charged": 9,
+    "poll_after_ms": 2000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/2cfea904c09809551cdaeefe0e7f56c2.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/c77032515ab63ee7394c198fe9677a50.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-6e9309518353774edce551ad36970d37.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.15618896484375
+    }
+  },
+  {
+    "facing": "w",
+    "state": "walk",
+    "id": "b66f8eeb-8058-4a5c-ab57-41688ac5e1ea",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-w-walk",
+    "created_at": 1791121675119,
+    "finished_at": 1791121980518,
+    "credits_charged": 9,
+    "poll_after_ms": 5000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/104b580818beb8ea5baf5fcc37f2bb6f.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/dd727f129030109096956d54ff57659e.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-a85b35e9579ddbf5f483fd28715eb1bc.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.558952048972801
+    }
+  },
+  {
+    "facing": "w",
+    "state": "attack",
+    "id": "5b1e524d-0b70-4101-ad44-edf9a12721c5",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-w-attack",
+    "created_at": 1791121675559,
+    "finished_at": 1791122008076,
+    "credits_charged": 9,
+    "poll_after_ms": 5000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/e57d78621605154c50071c4e0a49cb06.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/6e8df4d2c4722d6f0e00875109d325ee.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-45eea409fd6beec2ba567d4606df85ca.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.635342068142361
+    }
+  },
+  {
+    "facing": "n",
+    "state": "idle",
+    "id": "0def68ae-ac38-47a0-a9b0-abbad9d87c1c",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-n-idle",
+    "created_at": 1791121675995,
+    "finished_at": 1791122095499,
+    "credits_charged": 9,
+    "poll_after_ms": 2000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/462a814f5339cbcb128eaef60f244c1f.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/fe98bcd995f38e5e9d5938fb3c360fdd.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-9ad0482b2531b61c36da0a927f64c785.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.5954126428674766
+    }
+  },
+  {
+    "facing": "n",
+    "state": "walk",
+    "id": "3093f191-4e4f-47e5-ad51-857abecbe84c",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-n-walk",
+    "created_at": 1791121676416,
+    "finished_at": 1791122147759,
+    "credits_charged": 9,
+    "poll_after_ms": 2000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/aca7005a9ddc6b97686a6bbde3f7938f.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/86a6fa520cced79c817ab84052a06710.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-cd4a1333efe9c6fcdae3324567553088.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.291598849826389
+    }
+  },
+  {
+    "facing": "n",
+    "state": "attack",
+    "id": "a5dfdaf4-23ac-47c1-8e3b-4dcadddd9d2d",
+    "task_type": "rotateSpritesheet",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-direction-n-attack",
+    "created_at": 1791121676860,
+    "finished_at": 1791122199763,
+    "credits_charged": 9,
+    "poll_after_ms": 5000,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/920994f3a7849dbdb624642ce399838c.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/0b343c58a7d5a81c35d7b64c8e0dd1a5.mp4",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-c0198c4a406eff81d04aeade823f953e.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.475624367042824
+    }
+  }
+]

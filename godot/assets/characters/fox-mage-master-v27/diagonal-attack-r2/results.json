@@ -1,0 +1,42 @@
+[
+  {
+    "facing": "sw",
+    "id": "1aa82ca0-de21-44cd-8bcc-85d565299579",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-sw-attack-fixed-facing-r2",
+    "created_at": 1791128141568,
+    "finished_at": 1791128330402,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/cd0f4bf71b35589160fd4253f1585ad6.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/25fa3475bb7a878b4c7f2bbc5bbe881b.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/c6464608b5e9c04a67ff353f860a0326.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-0e437eef24fe12ddefbb920befdeb3d2.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.625
+    }
+  },
+  {
+    "facing": "nw",
+    "id": "4d56a780-99a9-4270-8ab2-c77d68f0871c",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-diagonal-nw-attack-fixed-facing-r2",
+    "created_at": 1791128142111,
+    "finished_at": 1791128247780,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/974fcd13b037ac056409b2c239a4c500.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/523079de8e206076168b790fe03a3f0c.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/e5796563a626775f9c0dbff160e07283.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-f08ccbd4dc5044eccfdb8911985dda76.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.4583333333333335
+    }
+  }
+]

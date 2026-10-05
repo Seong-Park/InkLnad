@@ -1,0 +1,10 @@
+{
+  "id": "8bbbfbb7-863c-41f2-9227-20715b3dd8bb",
+  "task_type": "generatePose",
+  "status": "queued",
+  "request_id": "ink-land-v27-diagonal-sw-weapon-r2",
+  "created_at": 1791126902831,
+  "finished_at": null,
+  "credits_charged": 0.5,
+  "poll_after_ms": 2000
+}

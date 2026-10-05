@@ -1,0 +1,110 @@
+[
+  {
+    "facing": "se",
+    "state": "idle",
+    "id": "e930af7e-bef3-4870-9bf1-2c4494898e44",
+    "task_type": "rotateSpritesheet",
+    "status": "running",
+    "request_id": "ink-land-v27-diagonal-se-idle-r1",
+    "created_at": 1791126904068,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "se",
+    "state": "walk",
+    "id": "789e7e79-872f-4467-8c6c-487274b38e5e",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-se-walk-r1",
+    "created_at": 1791126904592,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "se",
+    "state": "attack",
+    "id": "f52d806e-80df-4797-87b5-7b565c535622",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-se-attack-r1",
+    "created_at": 1791126905123,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "ne",
+    "state": "idle",
+    "id": "07489ccf-7c8c-41c7-9d59-80b4cf124ecb",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-ne-idle-r1",
+    "created_at": 1791126905671,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "ne",
+    "state": "walk",
+    "id": "2d8f44ee-5895-4dad-97bd-169761f93f08",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-ne-walk-r1",
+    "created_at": 1791126906201,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "ne",
+    "state": "attack",
+    "id": "be71de80-6bad-4179-8efb-431b2efffd15",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-ne-attack-r1",
+    "created_at": 1791126906713,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "nw",
+    "state": "idle",
+    "id": "1cf051f8-730a-4f53-83c6-e5b201424c6a",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-nw-idle-r1",
+    "created_at": 1791126907244,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "nw",
+    "state": "walk",
+    "id": "865c58f0-f473-4765-b221-01e33c9f933f",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-nw-walk-r1",
+    "created_at": 1791126907755,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "nw",
+    "state": "attack",
+    "id": "1e247e4b-140d-4d68-9c1f-a84876d6f433",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-diagonal-nw-attack-r1",
+    "created_at": 1791126908262,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]

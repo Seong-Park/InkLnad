@@ -1,0 +1,182 @@
+[gd_resource type="TileSet" format=3]
+
+[ext_resource type="Texture2D" path="res://assets/world/coast-tiles-v4/terrain-atlas.png" id="1_i2x5d"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_8djfj"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(0, 0, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_of02s"]
+texture = SubResource("AtlasTexture_8djfj")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_oer0m"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(313.5, 0, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_24vox"]
+texture = SubResource("AtlasTexture_oer0m")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tdafn"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(627, 627, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_cnr0g"]
+texture = SubResource("AtlasTexture_tdafn")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pox13"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(940.5, 627, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4lu3y"]
+texture = SubResource("AtlasTexture_pox13")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pm16v"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(0, 940.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_w1c3n"]
+texture = SubResource("AtlasTexture_pm16v")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tjlfy"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(313.5, 940.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_jhs2x"]
+texture = SubResource("AtlasTexture_tjlfy")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_77lyy"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(627, 940.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ranfn"]
+texture = SubResource("AtlasTexture_77lyy")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_n3vph"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(940.5, 940.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_nyr43"]
+texture = SubResource("AtlasTexture_n3vph")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gui10"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(627, 0, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_1mm6x"]
+texture = SubResource("AtlasTexture_gui10")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gpa4d"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(940.5, 0, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_bw2sn"]
+texture = SubResource("AtlasTexture_gpa4d")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4f1nb"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(0, 313.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_i72sv"]
+texture = SubResource("AtlasTexture_4f1nb")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4keqy"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(313.5, 313.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_qlcr1"]
+texture = SubResource("AtlasTexture_4keqy")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_y8udq"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(627, 313.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_g3oh7"]
+texture = SubResource("AtlasTexture_y8udq")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xijm8"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(940.5, 313.5, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_osxdm"]
+texture = SubResource("AtlasTexture_xijm8")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mcw1y"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(0, 627, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_sykwq"]
+texture = SubResource("AtlasTexture_mcw1y")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_2l23f"]
+atlas = ExtResource("1_i2x5d")
+region = Rect2(313.5, 627, 313.5, 313.5)
+filter_clip = true
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_kfomd"]
+texture = SubResource("AtlasTexture_2l23f")
+texture_region_size = Vector2i(313, 313)
+0:0/0 = 0
+
+[resource]
+tile_size = Vector2i(313, 313)
+sources/0 = SubResource("TileSetAtlasSource_of02s")
+sources/1 = SubResource("TileSetAtlasSource_24vox")
+sources/2 = SubResource("TileSetAtlasSource_1mm6x")
+sources/3 = SubResource("TileSetAtlasSource_bw2sn")
+sources/4 = SubResource("TileSetAtlasSource_i72sv")
+sources/5 = SubResource("TileSetAtlasSource_qlcr1")
+sources/6 = SubResource("TileSetAtlasSource_g3oh7")
+sources/7 = SubResource("TileSetAtlasSource_osxdm")
+sources/8 = SubResource("TileSetAtlasSource_sykwq")
+sources/9 = SubResource("TileSetAtlasSource_kfomd")
+sources/10 = SubResource("TileSetAtlasSource_cnr0g")
+sources/11 = SubResource("TileSetAtlasSource_4lu3y")
+sources/12 = SubResource("TileSetAtlasSource_w1c3n")
+sources/13 = SubResource("TileSetAtlasSource_jhs2x")
+sources/14 = SubResource("TileSetAtlasSource_ranfn")
+sources/15 = SubResource("TileSetAtlasSource_nyr43")

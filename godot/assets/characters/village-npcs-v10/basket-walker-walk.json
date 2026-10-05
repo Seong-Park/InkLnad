@@ -1,0 +1,11 @@
+{
+  "tool": "LUDO animateSprite",
+  "model": "forge",
+  "job_id": "10d57024-8ab9-47f1-a05e-e13f6c6c8b2b",
+  "num_frames": 16,
+  "num_cols": 4,
+  "num_rows": 4,
+  "duration": 2.8125,
+  "credits_charged": 4.5,
+  "prompt": "Walking in place at a relaxed pace, alternating steps, remaining centered and facing the same direction."
+}

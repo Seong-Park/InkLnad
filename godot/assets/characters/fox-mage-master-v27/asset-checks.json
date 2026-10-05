@@ -1,0 +1,32 @@
+[
+  {
+    "state": "idle",
+    "size": [
+      2304,
+      3072
+    ],
+    "frames": 36,
+    "alpha_zero_fraction": 0.5835242094816985,
+    "unique_frames": 36
+  },
+  {
+    "state": "walk",
+    "size": [
+      2304,
+      3072
+    ],
+    "frames": 36,
+    "alpha_zero_fraction": 0.5924268651891638,
+    "unique_frames": 36
+  },
+  {
+    "state": "attack",
+    "size": [
+      2304,
+      3072
+    ],
+    "frames": 36,
+    "alpha_zero_fraction": 0.5986346492060909,
+    "unique_frames": 36
+  }
+]

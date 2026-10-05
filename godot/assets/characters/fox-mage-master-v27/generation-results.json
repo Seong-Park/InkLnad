@@ -1,0 +1,69 @@
+{
+  "idle": {
+    "id": "f61b5ffc-cd66-407f-b4c7-e8e8f9710891",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-idle",
+    "created_at": 1791121105867,
+    "finished_at": 1791121214034,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/bde8bfea447bc2de9029190285676dc9.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/f30d4b1c36112fa2bdece76a2d24e4ca.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/6fa034e3bd19bd15bc1045c061c9bdf6.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-41460f09635298d316f745023a52df20.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.125,
+      "local_files": {
+        "spritesheet_url": "idle.webp",
+        "video_url": "idle.mp4",
+        "gif_url": "idle.gif"
+      }
+    }
+  },
+  "walk": {
+    "id": "2cb5452f-d0e7-4753-aa2c-4f79bd950ccc",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-walk",
+    "created_at": 1791121107636,
+    "finished_at": 1791121205003,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/4410242e4d9f0c6a1b0ce328ba7748db.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/4a9017192fa3ea319ed8dc0dcdf724b4.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/eabc9ff4ace70005c1c3916cc4ebc949.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-7f46772e0f531d01d9bf89a595262667.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.5,
+      "local_files": {
+        "spritesheet_url": "walk.webp",
+        "video_url": "walk.mp4",
+        "gif_url": "walk.gif"
+      }
+    }
+  },
+  "attack": {
+    "id": "17301785-a5c8-4e73-84f5-9945f1a31879",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-attack",
+    "created_at": 1791121108974,
+    "finished_at": 1791121308459,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/c29def7abf069118a8a531b733b74e29.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/0df7c601cf65d0066532ec34ae25cf0e.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/ac8efc77d8401d22cb540f030f97e78b.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-ff050fbec08f2694003ad465a5c29c7d.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.7083333333333335
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "scope": "Largest connected head paint top to bottom boot paint in fixed gallery ROIs; excludes weapon/tail. Median eight frames; does not prove torso/leg shape identity.",
+  "directions": [
+    {
+      "direction": "e",
+      "idle_height": 173.5,
+      "cast_height": 173.5,
+      "ratio": 1.0
+    },
+    {
+      "direction": "se",
+      "idle_height": 174.5,
+      "cast_height": 175.0,
+      "ratio": 0.9971428571428571
+    },
+    {
+      "direction": "s",
+      "idle_height": 159.5,
+      "cast_height": 160.5,
+      "ratio": 0.9937694704049844
+    },
+    {
+      "direction": "sw",
+      "idle_height": 174.5,
+      "cast_height": 175.0,
+      "ratio": 0.9971428571428571
+    },
+    {
+      "direction": "w",
+      "idle_height": 173.5,
+      "cast_height": 173.5,
+      "ratio": 1.0
+    },
+    {
+      "direction": "nw",
+      "idle_height": 180.5,
+      "cast_height": 181.0,
+      "ratio": 0.9972375690607734
+    },
+    {
+      "direction": "n",
+      "idle_height": 167.0,
+      "cast_height": 169.0,
+      "ratio": 0.9881656804733728
+    },
+    {
+      "direction": "ne",
+      "idle_height": 180.5,
+      "cast_height": 181.0,
+      "ratio": 0.9972375690607734
+    }
+  ]
+}

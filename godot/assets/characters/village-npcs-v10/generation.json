@@ -1,0 +1,66 @@
+{
+  "tool": "image_gen built-in",
+  "date": "2026-10-04",
+  "assets": [
+    {
+      "kind": "apothecary",
+      "file": "apothecary.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-a286826d-ebbd-47b9-9649-4926c8393335.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A kind middle-aged woman apothecary wearing a sage green hanbok with cream apron, hair in a bun, carrying a small mortar with herbs and holding a short pestle. Warm reassuring smile, standing working pose."
+    },
+    {
+      "kind": "tool-merchant",
+      "file": "tool-merchant.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-8bf0f684-ac68-4566-8ef4-c54eea8cbb36.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A young man artist and brush merchant, indigo short hanbok vest and ivory trousers, dark hair tied back, holding a large calligraphy brush across his chest and a little ceramic ink pot at waist. Standing shopkeeper pose."
+    },
+    {
+      "kind": "tailor",
+      "file": "tailor.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-15ff6a6b-8506-4e05-a878-99e6382b0109.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A cheerful woman tailor in muted coral and teal hanbok, pinned-up dark hair, holding a folded cream cloth and a wooden sewing spool. Standing sewing-working pose."
+    },
+    {
+      "kind": "craft-master",
+      "file": "craft-master.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-1488c856-55c0-4788-8bd5-68fd85f97fc5.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. An elderly male master artisan in ochre and slate-blue hanbok with short white beard and soft woven hat, leather apron, holding small wooden mallet and unfinished brush handle. Welcoming standing working pose. This is the main tutorial guide."
+    },
+    {
+      "kind": "tea-host",
+      "file": "tea-host.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-10a6c3e2-0afc-4240-94ef-05325dc3b3dd.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A smiling male teahouse host in sage and warm beige hanbok with cream apron, black hair, carrying a small wooden tray with ceramic teapot and cup. Standing serving pose."
+    },
+    {
+      "kind": "tea-guest",
+      "file": "tea-guest.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-a97b1e4a-fc7e-4075-a8e1-53521da538fd.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. An older woman villager in lavender-gray and pale cream hanbok, silver hair in a bun, seated cross-legged on a small simple pale cushion, holding a tiny teacup with both hands, relaxed and cheerful. Entire seated body visible."
+    },
+    {
+      "kind": "chat-resident",
+      "file": "chat-resident.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-4fe9f20a-2788-478c-88a6-d0f0a5751532.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A young adult woman village resident in warm amber and teal hanbok, short dark bob hair, standing with a small folded fan in one hand, the other hand raised gently as if chatting. No giant props."
+    },
+    {
+      "kind": "gardener",
+      "file": "gardener.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-bee401de-b36d-4fe5-9e19-7e295f297976.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A friendly middle-aged man gardener in sage and ochre work hanbok, soft straw hat, holding a small metal watering can angled to the side. Standing watering pose, no painted water on ground, no plants or scenery."
+    },
+    {
+      "kind": "basket-walker",
+      "file": "basket-walker.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-3d36176e-b5ec-49fc-94ea-a43885e2139d.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A young woman shopper in pale coral and cream practical hanbok with short hem and visible flat shoes, dark hair braid, holding a small wicker shopping basket with one hand close to her body. Neutral ready-to-walk standing pose, feet separated, both arms and legs clear."
+    },
+    {
+      "kind": "courier-walker",
+      "file": "courier-walker.png",
+      "source": "C:\\Users\\pjs93\\.codex\\generated_images\\01a101f4-ff48-7711-b8c6-026859cd76e8\\exec-1e172d18-af68-4e5f-86a8-9874ec138b0b.png",
+      "prompt": "Create one original 2D NPC character sprite for a hand-painted watercolor Korean hanok coastal village RPG. Full body, head and both feet entirely visible with generous transparent padding, genuinely transparent background, no ground patch or scenery. Elevated three-quarter game camera around 45 degrees, front and right side visible. A friendly human villager with chibi storybook proportions, head about one third of height, readable rounded silhouette and simple face at 80px tall. Loose luminous traditional watercolor, visible pigment granulation and soft bleeding washes, broken faint ink contours, cream highlights and muted natural colors. Match a watercolor fox mage fantasy village. NOT glossy 3D, NOT pixel art, NOT vector, NOT photorealistic. Single character only, no text, no labels. A young male village courier in teal jacket and cream trousers, tied dark hair, small cloth parcel worn as a backpack. Neutral ready-to-walk standing pose, feet separated, arms and legs clearly visible, friendly smile."
+    }
+  ]
+}

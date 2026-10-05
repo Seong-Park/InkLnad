@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\workspace\Ink-Land\tools\measure-rendered-idle-heads.py", line 54, in <module>
+    assert all(max(value,1/value)<=1.08 for value in row['ratio']), row
+AssertionError: {'direction': 'se', 'idle_width_height': [63.0, 60.5], 'walk_width_height': [63.0, 67.0], 'ratio': [1.0, 0.9029850746268657]}

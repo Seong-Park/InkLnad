@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-04",
+  "grid": {
+    "columns": 4,
+    "rows": 2
+  },
+  "prompts": [
+    {
+      "key": "calico-rest",
+      "prompt": "Create a production game sprite sheet, STRICT exactly 4 columns by 2 rows, 8 equal cells with generous transparent margins inside every cell. True transparent background, no grid lines, text, scenery or ground shadow. One SAME animal in every cell, full body facing RIGHT, slightly elevated three-quarter side view matching a watercolor village RPG. Hand-painted loose watercolor with visibly mottled pigment, paper grain within the animal, softly bleeding edges and fine warm pencil contours. No vector flat fills, no 3D. Keep anatomy, fur markings, size, head and body position consistent. Row 1 four idle poses: relaxed open eyes, brief blink, subtle ear/tail change, open eyes. Row 2 four quadruped walk phases with alternating paws and steady torso, generous margins so nose and tail NEVER touch a cell edge. A plump calico cat with cream white chest and paws and warm orange/charcoal patches, softly curled tail. SPECIAL: all eight cells show the cat SITTING resting on its haunches, front paws planted and tail wrapped around them. Row 1 resting eyes/blink/ear twitch/tail tip. Row 2 same seated position, slow contented breathing and sleepy blink, NO walking, no standing."
+    },
+    {
+      "key": "siamese",
+      "prompt": "Create a production game sprite sheet, STRICT exactly 4 columns by 2 rows, 8 equal cells with generous transparent margins inside every cell. True transparent background, no grid lines, text, scenery or ground shadow. One SAME animal in every cell, full body facing RIGHT, slightly elevated three-quarter side view matching a watercolor village RPG. Hand-painted loose watercolor with visibly mottled pigment, paper grain within the animal, softly bleeding edges and fine warm pencil contours. No vector flat fills, no 3D. Keep anatomy, fur markings, size, head and body position consistent. Row 1 four idle poses: relaxed open eyes, brief blink, subtle ear/tail change, open eyes. Row 2 four quadruped walk phases with alternating paws and steady torso, generous margins so nose and tail NEVER touch a cell edge. A slender Siamese cat, ivory cream fur, dark chocolate face mask ears paws and long tail, soft blue eyes. Standing idle top row and real walking bottom row."
+    },
+    {
+      "key": "corgi",
+      "prompt": "Create a production game sprite sheet, STRICT exactly 4 columns by 2 rows, 8 equal cells with generous transparent margins inside every cell. True transparent background, no grid lines, text, scenery or ground shadow. One SAME animal in every cell, full body facing RIGHT, slightly elevated three-quarter side view matching a watercolor village RPG. Hand-painted loose watercolor with visibly mottled pigment, paper grain within the animal, softly bleeding edges and fine warm pencil contours. No vector flat fills, no 3D. Keep anatomy, fur markings, size, head and body position consistent. Row 1 four idle poses: relaxed open eyes, brief blink, subtle ear/tail change, open eyes. Row 2 four quadruped walk phases with alternating paws and steady torso, generous margins so nose and tail NEVER touch a cell edge. A cheerful Welsh corgi dog, short legs, long body, tan-and-white fur, upright broad ears, white chest and blaze, compact tail. Standing idle top row, real short-legged walk bottom row."
+    },
+    {
+      "key": "poodle",
+      "prompt": "Create a production game sprite sheet, STRICT exactly 4 columns by 2 rows, 8 equal cells with generous transparent margins inside every cell. True transparent background, no grid lines, text, scenery or ground shadow. One SAME animal in every cell, full body facing RIGHT, slightly elevated three-quarter side view matching a watercolor village RPG. Hand-painted loose watercolor with visibly mottled pigment, paper grain within the animal, softly bleeding edges and fine warm pencil contours. No vector flat fills, no 3D. Keep anatomy, fur markings, size, head and body position consistent. Row 1 four idle poses: relaxed open eyes, brief blink, subtle ear/tail change, open eyes. Row 2 four quadruped walk phases with alternating paws and steady torso, generous margins so nose and tail NEVER touch a cell edge. A small brown toy poodle dog with curly warm chestnut coat rendered as textured watercolor, floppy curly ears, rounded muzzle, natural proportional legs, no clothing. Standing idle top row, real walk bottom row."
+    }
+  ]
+}

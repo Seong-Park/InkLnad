@@ -1,0 +1,54 @@
+{
+  "s": {
+    "cell": [
+      504,
+      896
+    ],
+    "edge_frames": {},
+    "opaque_cyan_near_feet": []
+  },
+  "n": {
+    "cell": [
+      504,
+      896
+    ],
+    "edge_frames": {
+      "left": [
+        6,
+        7,
+        22,
+        23
+      ]
+    },
+    "opaque_cyan_near_feet": []
+  },
+  "e": {
+    "cell": [
+      504,
+      896
+    ],
+    "edge_frames": {
+      "right": [
+        7,
+        26,
+        27,
+        28
+      ]
+    },
+    "opaque_cyan_near_feet": []
+  },
+  "w": {
+    "cell": [
+      504,
+      896
+    ],
+    "edge_frames": {
+      "left": [
+        4,
+        5,
+        6
+      ]
+    },
+    "opaque_cyan_near_feet": []
+  }
+}

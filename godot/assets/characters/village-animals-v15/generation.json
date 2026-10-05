@@ -1,0 +1,24 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-04",
+  "grid": {
+    "columns": 4,
+    "rows": 2,
+    "idle_row": 0,
+    "walk_row": 1
+  },
+  "prompts": [
+    {
+      "key": "cat",
+      "prompt": "Create a production-ready transparent watercolor sprite sheet for a 2D Korean coastal hanok village game. STRICT grid: exactly FOUR equal columns and TWO equal rows, eight separate complete poses, no grid lines, no captions, no text, no scenery, no ground shadow. The canvas has true transparent alpha. In each cell the SAME animal is centered at the SAME scale with generous padding, whole body and tail always visible. Elevated three-quarter game camera. All poses face RIGHT throughout, no rotation to front or back. Loose traditional watercolor pigment granulation, soft bleeding wash edges, delicate brown pencil outlines, charming gentle expression, visibly painterly rather than vector or 3D. Top row four idle poses; bottom row four locomotion poses that loop 0->1->2->3->0. Consistent anatomy, proportions and coat markings across all eight frames. Keep left-to-right movement in place with stable torso center, locomotion performed by limbs. An orange-and-white domestic village cat with a white muzzle and chest, little pink ears, gently curved tail. Top row: idle looking calmly ahead, blinking, tail curl, relaxed eyes. Bottom row: a natural short quadruped walk, alternating front and back paws, planted stance, right stride, gathered paws, left stride."
+    },
+    {
+      "key": "dog",
+      "prompt": "Create a production-ready transparent watercolor sprite sheet for a 2D Korean coastal hanok village game. STRICT grid: exactly FOUR equal columns and TWO equal rows, eight separate complete poses, no grid lines, no captions, no text, no scenery, no ground shadow. The canvas has true transparent alpha. In each cell the SAME animal is centered at the SAME scale with generous padding, whole body and tail always visible. Elevated three-quarter game camera. All poses face RIGHT throughout, no rotation to front or back. Loose traditional watercolor pigment granulation, soft bleeding wash edges, delicate brown pencil outlines, charming gentle expression, visibly painterly rather than vector or 3D. Top row four idle poses; bottom row four locomotion poses that loop 0->1->2->3->0. Consistent anatomy, proportions and coat markings across all eight frames. Keep left-to-right movement in place with stable torso center, locomotion performed by limbs. A small cream-colored Korean Jindo puppy with short legs, triangular ears, dark brown eyes and gently curled fluffy tail. Top row: relaxed alert posture, blinking, slight ear twitch, gentle tail wag. Bottom row: natural short quadruped walk, planted stance, right stride, gathered paws, left stride."
+    },
+    {
+      "key": "sparrow",
+      "prompt": "Create a production-ready transparent watercolor sprite sheet for a 2D Korean coastal hanok village game. STRICT grid: exactly FOUR equal columns and TWO equal rows, eight separate complete poses, no grid lines, no captions, no text, no scenery, no ground shadow. The canvas has true transparent alpha. In each cell the SAME animal is centered at the SAME scale with generous padding, whole body and tail always visible. Elevated three-quarter game camera. All poses face RIGHT throughout, no rotation to front or back. Loose traditional watercolor pigment granulation, soft bleeding wash edges, delicate brown pencil outlines, charming gentle expression, visibly painterly rather than vector or 3D. Top row four idle poses; bottom row four locomotion poses that loop 0->1->2->3->0. Consistent anatomy, proportions and coat markings across all eight frames. Keep left-to-right movement in place with stable torso center, locomotion performed by limbs. A tiny warm brown and cream sparrow with soft russet wing markings, dark eyes, tiny pointed beak and two little feet. Top row: standing bird, blink, head tilt, relaxed standing. Bottom row: hop sequence, crouch on both feet, little hop with folded wings, landing on both feet, settling into standing. Keep torso scale fixed; subtle hop height only."
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "date": "2026-10-04",
+  "method": "LUDO MCP",
+  "animation_motion_prompt": "Standing idle with both feet planted, breathing gently, blinking, ears and tail swaying. Keep the exact source viewing angle and character proportions. Fixed camera. No walking.",
+  "animation_sources": "reference-{direction}.png exported without pixel edits from v21 native walk frame0",
+  "pose_attempts_used_in_runtime": false,
+  "animations": {
+    "e": {
+      "id": "1f50c0f4-b665-47a8-b319-67df229a65a8",
+      "task_type": "animateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-native-e",
+      "created_at": 1791113954589,
+      "finished_at": 1791114058297,
+      "credits_charged": 9,
+      "result": {
+        "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/d49b03f58c2776fe2e15344b831e076a.webp",
+        "video_url": "https://storage.googleapis.com/ludo-assets/api/c14636db48a686129a5de24a552e51b5.mp4",
+        "audio_url": "https://storage.googleapis.com/ludo-assets/api/b5cffc12bd913ab9826d1846d211a11f.mp3",
+        "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-7cc48f009014b5781943a81761d66329.gif",
+        "num_frames": 36,
+        "num_cols": 6,
+        "num_rows": 6,
+        "duration": 2.9166666666666665
+      }
+    },
+    "se": {
+      "id": "41292a92-e5c4-4807-a5d1-fe6b188af921",
+      "task_type": "animateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-native-se",
+      "created_at": 1791113955308,
+      "finished_at": 1791114046619,
+      "credits_charged": 9,
+      "result": {
+        "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/410fd07da69c4fedfef6e7da2c6b3cdb.webp",
+        "video_url": "https://storage.googleapis.com/ludo-assets/api/634cea966c68878976b715d25bd67ea1.mp4",
+        "audio_url": "https://storage.googleapis.com/ludo-assets/api/547dcc14c6daea9e3cae96b53bd3c3fd.mp3",
+        "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-5fcf93566c42ccda8f6d63c850e04f3d.gif",
+        "num_frames": 36,
+        "num_cols": 6,
+        "num_rows": 6,
+        "duration": 2.125
+      }
+    },
+    "s": {
+      "id": "c7c549e5-afa4-43a0-b838-aa91ab104e97",
+      "task_type": "animateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-native-s",
+      "created_at": 1791113956025,
+      "finished_at": 1791114137592,
+      "credits_charged": 9,
+      "result": {
+        "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/0dc73eadb8865299375121f74a08ff31.webp",
+        "video_url": "https://storage.googleapis.com/ludo-assets/api/e69ba6b158caf4c198a74e3ad5db154f.mp4",
+        "audio_url": "https://storage.googleapis.com/ludo-assets/api/aecda3167dd383c54427f975b80a9415.mp3",
+        "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-a119b1a5ca54ed53c60f1385f1f63d3a.gif",
+        "num_frames": 36,
+        "num_cols": 6,
+        "num_rows": 6,
+        "duration": 2.125
+      }
+    },
+    "ne": {
+      "id": "fd7bc1f8-c58f-4858-9bea-04a4a6db9d69",
+      "task_type": "animateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-native-ne",
+      "created_at": 1791113956706,
+      "finished_at": 1791114142859,
+      "credits_charged": 9,
+      "result": {
+        "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/7554051e254cb88e182cb87bee23ad42.webp",
+        "video_url": "https://storage.googleapis.com/ludo-assets/api/83b91c50462092bca3155db23df0230c.mp4",
+        "audio_url": "https://storage.googleapis.com/ludo-assets/api/278478db3ff2419a87be83a0d1dd0770.mp3",
+        "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-5dbd6b5e413300948cd15c1f39546e04.gif",
+        "num_frames": 36,
+        "num_cols": 6,
+        "num_rows": 6,
+        "duration": 2.7916666666666665
+      }
+    },
+    "n": {
+      "id": "005d765a-9b4f-49e0-bf31-e0381a75391f",
+      "task_type": "animateSprite",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-native-n",
+      "created_at": 1791113957978,
+      "finished_at": 1791114243415,
+      "credits_charged": 9,
+      "result": {
+        "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/4cde45b3082370aef1f6eebdda32d609.webp",
+        "video_url": "https://storage.googleapis.com/ludo-assets/api/77626d92b951b469c4384e026772121e.mp4",
+        "audio_url": "https://storage.googleapis.com/ludo-assets/api/7cff35c2d5cab525b6b6a2f65dfd0510.mp3",
+        "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-0fbc2ea70c2378edede16b0b7c4cea8d.gif",
+        "num_frames": 36,
+        "num_cols": 6,
+        "num_rows": 6,
+        "duration": 2.2916666666666665
+      }
+    }
+  },
+  "poses": {
+    "e": {
+      "id": "72367466-f08b-48c2-892c-dc01eaa95789",
+      "task_type": "generatePose",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-pose-e",
+      "created_at": 1791113834444,
+      "finished_at": 1791113846824,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/a0d49b37c6b32ce3e42387701d6d051f.webp",
+          "pose": "Other",
+          "description": "Stand relaxed with both feet planted and staff held naturally. Keep the exact right-facing view, face, head-to-body proportions, outfit and watercolor texture of the source. Only change the walking leg pose to stationary idle.",
+          "motion_prompt": ""
+        }
+      ]
+    },
+    "se": {
+      "id": "e4238864-cf1a-4f90-81c6-3156c9657a7f",
+      "task_type": "generatePose",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-pose-se",
+      "created_at": 1791113835920,
+      "finished_at": 1791113850441,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/e1613705be68ee2f3c613dba0603b54a.webp",
+          "pose": "Other",
+          "description": "Stand relaxed with both feet planted and staff held naturally. Keep the exact down-right three-quarter view, face, head-to-body proportions, outfit and watercolor texture of the source. Only change the walking leg pose to stationary idle.",
+          "motion_prompt": ""
+        }
+      ]
+    },
+    "s": {
+      "id": "b71031d1-167b-4cc7-b493-22af56fc6783",
+      "task_type": "generatePose",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-pose-s",
+      "created_at": 1791113837260,
+      "finished_at": 1791113861002,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/1b992f3614a95546b10cd9cbe982c575.webp",
+          "pose": "Other",
+          "description": "Stand relaxed with both feet planted and staff held naturally. Keep the exact front-facing view, face, head-to-body proportions, outfit and watercolor texture of the source. Only change the walking leg pose to stationary idle.",
+          "motion_prompt": ""
+        }
+      ]
+    },
+    "ne": {
+      "id": "0a4d4574-f952-4684-9ed9-77f2e65b0d3e",
+      "task_type": "generatePose",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-pose-ne",
+      "created_at": 1791113838395,
+      "finished_at": 1791113863890,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/a649b7a2ef4ba725124c7d0976c4b846.webp",
+          "pose": "Other",
+          "description": "Stand relaxed with both feet planted and staff held naturally. Keep the exact up-right rear three-quarter view, face, head-to-body proportions, outfit and watercolor texture of the source. Only change the walking leg pose to stationary idle.",
+          "motion_prompt": ""
+        }
+      ]
+    },
+    "n": {
+      "id": "61966972-cc25-4853-996d-2a0e72d22764",
+      "task_type": "generatePose",
+      "status": "succeeded",
+      "request_id": "ink-land-v22-idle-pose-n",
+      "created_at": 1791113839705,
+      "finished_at": 1791113880490,
+      "credits_charged": 0.5,
+      "result": [
+        {
+          "url": "https://storage.googleapis.com/ludo-assets/api/2cca9fb4d7e649d98ff540fb443e098b.webp",
+          "pose": "Other",
+          "description": "Stand relaxed with both feet planted and staff held naturally. Keep the exact back-facing view, face, head-to-body proportions, outfit and watercolor texture of the source. Only change the walking leg pose to stationary idle.",
+          "motion_prompt": ""
+        }
+      ]
+    }
+  },
+  "runtime_selected_frames": {
+    "e": [
+      6,
+      7,
+      8,
+      7
+    ],
+    "se": [
+      0,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "s": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "ne": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4
+    ],
+    "n": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  "selection_reason": "Exclude camera-turning frames and initial settling; ping-pong side/rear-three-quarter segments without pixel edits."
+}

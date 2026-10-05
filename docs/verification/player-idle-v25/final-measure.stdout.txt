@@ -1,0 +1,9 @@
+{'direction': 'e', 'idle_width_height': [64.0, 67.0], 'walk_width_height': [60.0, 70.5], 'ratio': [1.0666666666666667, 0.950354609929078]}
+{'direction': 'se', 'idle_width_height': [67.0, 64.5], 'walk_width_height': [63.0, 67.0], 'ratio': [1.0634920634920635, 0.9626865671641791]}
+{'direction': 's', 'idle_width_height': [59.0, 57.0], 'walk_width_height': [55.0, 59.5], 'ratio': [1.0727272727272728, 0.957983193277311]}
+{'direction': 'sw', 'idle_width_height': [67.0, 64.5], 'walk_width_height': [63.0, 67.0], 'ratio': [1.0634920634920635, 0.9626865671641791]}
+{'direction': 'w', 'idle_width_height': [64.0, 67.0], 'walk_width_height': [60.0, 70.5], 'ratio': [1.0666666666666667, 0.950354609929078]}
+{'direction': 'nw', 'idle_width_height': [54.0, 63.5], 'walk_width_height': [51.0, 61.0], 'ratio': [1.0588235294117647, 1.040983606557377]}
+{'direction': 'n', 'idle_width_height': [60.0, 57.5], 'walk_width_height': [56.0, 60.0], 'ratio': [1.0714285714285714, 0.9583333333333334]}
+{'direction': 'ne', 'idle_width_height': [54.0, 63.5], 'walk_width_height': [51.0, 61.0], 'ratio': [1.0588235294117647, 1.040983606557377]}
+INK_RENDERED_IDLE_HEAD_SIZE_PASS

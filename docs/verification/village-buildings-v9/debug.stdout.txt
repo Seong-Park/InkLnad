@@ -1,0 +1,188 @@
+WorkerThreadPool: 8 threads, 2 max low-priority.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Using "default" pen tablet driver...
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+CORE API HASH: 2004498165
+EDITOR API HASH: 1696660745
+Loading resource: res://tests/integration/village_buildings.gd remapped: res://tests/integration/village_buildings.gd
+Completed load for: 'res://tests/integration/village_buildings.gd' remapped 'res://tests/integration/village_buildings.gd' at thread -1
+SceneTreeFTI: traversal method DEFAULT
+Loading resource: res://addons/godot_ai/runtime/game_helper.gd remapped: res://addons/godot_ai/runtime/game_helper.gd
+Completed load for: 'res://addons/godot_ai/runtime/game_helper.gd' remapped 'res://addons/godot_ai/runtime/game_helper.gd' at thread -1
+Loaded system CA certificates
+[godot_ai game_helper] registered mcp capture (debugger active=false, logger=true)
+Loading resource: res://scenes/gameplay/Main.tscn remapped: res://scenes/gameplay/Main.tscn
+Loading resource: res://scripts/gameplay/journey_controller.gd remapped: res://scripts/gameplay/journey_controller.gd
+Loading resource: res://resources/first_journey_rules.tres remapped: res://resources/first_journey_rules.tres
+Loading resource: res://scripts/gameplay/journey_rules.gd remapped: res://scripts/gameplay/journey_rules.gd
+Completed load for: 'res://scripts/gameplay/journey_rules.gd' remapped 'res://scripts/gameplay/journey_rules.gd' at thread -1
+Completed load for: 'res://resources/first_journey_rules.tres' remapped 'res://resources/first_journey_rules.tres' at thread -1
+Loading resource: res://scenes/enemies/Enemy.tscn remapped: res://scenes/enemies/Enemy.tscn
+Loading resource: res://scripts/enemies/enemy_controller.gd remapped: res://scripts/enemies/enemy_controller.gd
+Completed load for: 'res://scripts/enemies/enemy_controller.gd' remapped 'res://scripts/enemies/enemy_controller.gd' at thread -1
+Completed load for: 'res://scenes/enemies/Enemy.tscn' remapped 'res://scenes/enemies/Enemy.tscn' at thread -1
+Loading resource: res://assets/world/flowers.png remapped: res://assets/world/flowers.png
+Loading resource: res://.godot/imported/flowers.png-a86ae50646fb4e5390818c18dea84a61.ctex remapped: res://.godot/imported/flowers.png-a86ae50646fb4e5390818c18dea84a61.ctex
+Completed load for: 'res://assets/world/flowers.png' remapped 'res://assets/world/flowers.png' at thread -1
+Loading resource: res://assets/world/doorway.png remapped: res://assets/world/doorway.png
+Loading resource: res://.godot/imported/doorway.png-3fd11ac26b38a766cfb5e16b7184c2d8.ctex remapped: res://.godot/imported/doorway.png-3fd11ac26b38a766cfb5e16b7184c2d8.ctex
+Completed load for: 'res://assets/world/doorway.png' remapped 'res://assets/world/doorway.png' at thread -1
+Loading resource: res://assets/world/workshop.png remapped: res://assets/world/workshop.png
+Loading resource: res://.godot/imported/workshop.png-a82b70ccb917d2e66248c90fcc049190.ctex remapped: res://.godot/imported/workshop.png-a82b70ccb917d2e66248c90fcc049190.ctex
+Completed load for: 'res://assets/world/workshop.png' remapped 'res://assets/world/workshop.png' at thread -1
+Loading resource: res://assets/world/checkpoint.png remapped: res://assets/world/checkpoint.png
+Loading resource: res://.godot/imported/checkpoint.png-ab4c4c73846c01868d7d6e5ee6e28982.ctex remapped: res://.godot/imported/checkpoint.png-ab4c4c73846c01868d7d6e5ee6e28982.ctex
+Completed load for: 'res://assets/world/checkpoint.png' remapped 'res://assets/world/checkpoint.png' at thread -1
+Loading resource: res://assets/world/ruin-pillar.png remapped: res://assets/world/ruin-pillar.png
+Loading resource: res://.godot/imported/ruin-pillar.png-fa3267290d708966a4ee9c124cfc922b.ctex remapped: res://.godot/imported/ruin-pillar.png-fa3267290d708966a4ee9c124cfc922b.ctex
+Completed load for: 'res://assets/world/ruin-pillar.png' remapped 'res://assets/world/ruin-pillar.png' at thread -1
+Loading resource: res://assets/world/paper-arena.png remapped: res://assets/world/paper-arena.png
+Loading resource: res://.godot/imported/paper-arena.png-58027ef626421eb36a3abfe2b8eaa5e9.ctex remapped: res://.godot/imported/paper-arena.png-58027ef626421eb36a3abfe2b8eaa5e9.ctex
+Completed load for: 'res://assets/world/paper-arena.png' remapped 'res://assets/world/paper-arena.png' at thread -1
+Loading resource: res://assets/world/bluebell-ruins.png remapped: res://assets/world/bluebell-ruins.png
+Loading resource: res://.godot/imported/bluebell-ruins.png-8ed8dbe6acb0b46692aeabf490ab1dbe.ctex remapped: res://.godot/imported/bluebell-ruins.png-8ed8dbe6acb0b46692aeabf490ab1dbe.ctex
+Completed load for: 'res://assets/world/bluebell-ruins.png' remapped 'res://assets/world/bluebell-ruins.png' at thread -1
+Loading resource: res://assets/world/rain-margin.png remapped: res://assets/world/rain-margin.png
+Loading resource: res://.godot/imported/rain-margin.png-8eab2fa2e237e728a05c1fca42601b4f.ctex remapped: res://.godot/imported/rain-margin.png-8eab2fa2e237e728a05c1fca42601b4f.ctex
+Completed load for: 'res://assets/world/rain-margin.png' remapped 'res://assets/world/rain-margin.png' at thread -1
+Completed load for: 'res://scripts/gameplay/journey_controller.gd' remapped 'res://scripts/gameplay/journey_controller.gd' at thread -1
+Loading resource: res://scenes/areas/Area.tscn remapped: res://scenes/areas/Area.tscn
+Completed load for: 'res://scenes/areas/Area.tscn' remapped 'res://scenes/areas/Area.tscn' at thread -1
+Loading resource: res://scenes/gameplay/Player.tscn remapped: res://scenes/gameplay/Player.tscn
+Loading resource: res://assets/audio/footstep.wav remapped: res://assets/audio/footstep.wav
+Loading resource: res://.godot/imported/footstep.wav-1bf931290d10f06d867c94e89a3de372.sample remapped: res://.godot/imported/footstep.wav-1bf931290d10f06d867c94e89a3de372.sample
+Completed load for: 'res://assets/audio/footstep.wav' remapped 'res://assets/audio/footstep.wav' at thread -1
+Completed load for: 'res://scenes/gameplay/Player.tscn' remapped 'res://scenes/gameplay/Player.tscn' at thread -1
+Loading resource: res://scripts/ui/journey_ui.gd remapped: res://scripts/ui/journey_ui.gd
+Loading resource: res://scenes/ui/MainMenu.tscn remapped: res://scenes/ui/MainMenu.tscn
+Completed load for: 'res://scenes/ui/MainMenu.tscn' remapped 'res://scenes/ui/MainMenu.tscn' at thread -1
+Loading resource: res://scenes/ui/HUD.tscn remapped: res://scenes/ui/HUD.tscn
+Completed load for: 'res://scenes/ui/HUD.tscn' remapped 'res://scenes/ui/HUD.tscn' at thread -1
+Loading resource: res://scenes/ui/PauseMenu.tscn remapped: res://scenes/ui/PauseMenu.tscn
+Completed load for: 'res://scenes/ui/PauseMenu.tscn' remapped 'res://scenes/ui/PauseMenu.tscn' at thread -1
+Loading resource: res://scenes/ui/Shop.tscn remapped: res://scenes/ui/Shop.tscn
+Completed load for: 'res://scenes/ui/Shop.tscn' remapped 'res://scenes/ui/Shop.tscn' at thread -1
+Loading resource: res://scenes/ui/ConfirmDialog.tscn remapped: res://scenes/ui/ConfirmDialog.tscn
+Completed load for: 'res://scenes/ui/ConfirmDialog.tscn' remapped 'res://scenes/ui/ConfirmDialog.tscn' at thread -1
+Loading resource: res://resources/ui/inkland_theme.tres remapped: res://resources/ui/inkland_theme.tres
+Completed load for: 'res://resources/ui/inkland_theme.tres' remapped 'res://resources/ui/inkland_theme.tres' at thread -1
+Completed load for: 'res://scripts/ui/journey_ui.gd' remapped 'res://scripts/ui/journey_ui.gd' at thread -1
+Completed load for: 'res://scenes/gameplay/Main.tscn' remapped 'res://scenes/gameplay/Main.tscn' at thread -1
+Loading resource: res://assets/characters/watercolor-v8/actors-atlas.png remapped: res://assets/characters/watercolor-v8/actors-atlas.png
+Loading resource: res://.godot/imported/actors-atlas.png-820e155810216a6505868eb1bdffcae5.ctex remapped: res://.godot/imported/actors-atlas.png-820e155810216a6505868eb1bdffcae5.ctex
+Completed load for: 'res://assets/characters/watercolor-v8/actors-atlas.png' remapped 'res://assets/characters/watercolor-v8/actors-atlas.png' at thread -1
+Loading resource: res://assets/characters/watercolor-v8/idle.png remapped: res://assets/characters/watercolor-v8/idle.png
+Loading resource: res://.godot/imported/idle.png-384ea0fb7c23c36b42bce34a7069f3de.ctex remapped: res://.godot/imported/idle.png-384ea0fb7c23c36b42bce34a7069f3de.ctex
+Completed load for: 'res://assets/characters/watercolor-v8/idle.png' remapped 'res://assets/characters/watercolor-v8/idle.png' at thread -1
+Loading resource: res://assets/characters/watercolor-v8/walk.png remapped: res://assets/characters/watercolor-v8/walk.png
+Loading resource: res://.godot/imported/walk.png-c9180bca7f2ddd69519ea0e3c87179d0.ctex remapped: res://.godot/imported/walk.png-c9180bca7f2ddd69519ea0e3c87179d0.ctex
+Completed load for: 'res://assets/characters/watercolor-v8/walk.png' remapped 'res://assets/characters/watercolor-v8/walk.png' at thread -1
+Loading resource: res://assets/characters/watercolor-v8/cast.png remapped: res://assets/characters/watercolor-v8/cast.png
+Loading resource: res://.godot/imported/cast.png-ac0759a0f00710bdfa1cb17a860e0918.ctex remapped: res://.godot/imported/cast.png-ac0759a0f00710bdfa1cb17a860e0918.ctex
+Completed load for: 'res://assets/characters/watercolor-v8/cast.png' remapped 'res://assets/characters/watercolor-v8/cast.png' at thread -1
+Loading resource: res://assets/ui/button-paper.png remapped: res://assets/ui/button-paper.png
+Loading resource: res://.godot/imported/button-paper.png-e05563937dd8227cc3fe54da3cdf9261.ctex remapped: res://.godot/imported/button-paper.png-e05563937dd8227cc3fe54da3cdf9261.ctex
+Completed load for: 'res://assets/ui/button-paper.png' remapped 'res://assets/ui/button-paper.png' at thread -1
+Loading resource: res://assets/world/menu-illustration.png remapped: res://assets/world/menu-illustration.png
+Loading resource: res://.godot/imported/menu-illustration.png-f5f4ad6b809bccea2aabf5b31e7d5ac4.ctex remapped: res://.godot/imported/menu-illustration.png-f5f4ad6b809bccea2aabf5b31e7d5ac4.ctex
+Completed load for: 'res://assets/world/menu-illustration.png' remapped 'res://assets/world/menu-illustration.png' at thread -1
+Loading resource: res://assets/ui/title.png remapped: res://assets/ui/title.png
+Loading resource: res://.godot/imported/title.png-534804d7bf6a63fbbb0c46e68d8e4660.ctex remapped: res://.godot/imported/title.png-534804d7bf6a63fbbb0c46e68d8e4660.ctex
+Completed load for: 'res://assets/ui/title.png' remapped 'res://assets/ui/title.png' at thread -1
+Loading resource: res://scripts/areas/coastal_map.gd remapped: res://scripts/areas/coastal_map.gd
+Loading resource: res://resources/coastal_cliff.gdshader remapped: res://resources/coastal_cliff.gdshader
+Completed load for: 'res://resources/coastal_cliff.gdshader' remapped 'res://resources/coastal_cliff.gdshader' at thread -1
+Loading resource: res://resources/coastal_terrain.gdshader remapped: res://resources/coastal_terrain.gdshader
+Completed load for: 'res://resources/coastal_terrain.gdshader' remapped 'res://resources/coastal_terrain.gdshader' at thread -1
+Completed load for: 'res://scripts/areas/coastal_map.gd' remapped 'res://scripts/areas/coastal_map.gd' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/sand.webp remapped: res://assets/world/coast-modular-v3/sand.webp
+Loading resource: res://.godot/imported/sand.webp-f6a3e7e938ba54af8fdfadb7225e5117.ctex remapped: res://.godot/imported/sand.webp-f6a3e7e938ba54af8fdfadb7225e5117.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/sand.webp' remapped 'res://assets/world/coast-modular-v3/sand.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/grass.webp remapped: res://assets/world/coast-modular-v3/grass.webp
+Loading resource: res://.godot/imported/grass.webp-fce9bfb0c38ecde4f0c8914c2d3e17e3.ctex remapped: res://.godot/imported/grass.webp-fce9bfb0c38ecde4f0c8914c2d3e17e3.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/grass.webp' remapped 'res://assets/world/coast-modular-v3/grass.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/water.webp remapped: res://assets/world/coast-modular-v3/water.webp
+Loading resource: res://.godot/imported/water.webp-6f00dfacfe5cb8c366a1067d73007853.ctex remapped: res://.godot/imported/water.webp-6f00dfacfe5cb8c366a1067d73007853.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/water.webp' remapped 'res://assets/world/coast-modular-v3/water.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/dirt.webp remapped: res://assets/world/coast-modular-v3/dirt.webp
+Loading resource: res://.godot/imported/dirt.webp-dc6d6504634a464c8340d4b6865e0ab1.ctex remapped: res://.godot/imported/dirt.webp-dc6d6504634a464c8340d4b6865e0ab1.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/dirt.webp' remapped 'res://assets/world/coast-modular-v3/dirt.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/paving.webp remapped: res://assets/world/coast-modular-v3/paving.webp
+Loading resource: res://.godot/imported/paving.webp-9f94de72a4e3c6d04b36d89ae7c7a7b9.ctex remapped: res://.godot/imported/paving.webp-9f94de72a4e3c6d04b36d89ae7c7a7b9.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/paving.webp' remapped 'res://assets/world/coast-modular-v3/paving.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/tuft.webp remapped: res://assets/world/coast-modular-v3/tuft.webp
+Loading resource: res://.godot/imported/tuft.webp-fc3f01233c7d86be06f6365436f52fec.ctex remapped: res://.godot/imported/tuft.webp-fc3f01233c7d86be06f6365436f52fec.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/tuft.webp' remapped 'res://assets/world/coast-modular-v3/tuft.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/pebbles.webp remapped: res://assets/world/coast-modular-v3/pebbles.webp
+Loading resource: res://.godot/imported/pebbles.webp-337c6b6126f9e259011581c3696341f7.ctex remapped: res://.godot/imported/pebbles.webp-337c6b6126f9e259011581c3696341f7.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/pebbles.webp' remapped 'res://assets/world/coast-modular-v3/pebbles.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/shrub.webp remapped: res://assets/world/coast-modular-v3/shrub.webp
+Loading resource: res://.godot/imported/shrub.webp-5ba54ce4f113a3635ea87fb96a4d02ee.ctex remapped: res://.godot/imported/shrub.webp-5ba54ce4f113a3635ea87fb96a4d02ee.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/shrub.webp' remapped 'res://assets/world/coast-modular-v3/shrub.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/rock.webp remapped: res://assets/world/coast-modular-v3/rock.webp
+Loading resource: res://.godot/imported/rock.webp-665a99b5973ef6b3e1f0ad2e4ba5110a.ctex remapped: res://.godot/imported/rock.webp-665a99b5973ef6b3e1f0ad2e4ba5110a.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/rock.webp' remapped 'res://assets/world/coast-modular-v3/rock.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/eastern-cottage.webp remapped: res://assets/world/coast-modular-v3/eastern-cottage.webp
+Loading resource: res://.godot/imported/eastern-cottage.webp-124899fc768af21b6cf4340968570213.ctex remapped: res://.godot/imported/eastern-cottage.webp-124899fc768af21b6cf4340968570213.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/eastern-cottage.webp' remapped 'res://assets/world/coast-modular-v3/eastern-cottage.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/pine.webp remapped: res://assets/world/coast-modular-v3/pine.webp
+Loading resource: res://.godot/imported/pine.webp-5db38a62110906ffa34bb44ff975c518.ctex remapped: res://.godot/imported/pine.webp-5db38a62110906ffa34bb44ff975c518.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/pine.webp' remapped 'res://assets/world/coast-modular-v3/pine.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/willow.webp remapped: res://assets/world/coast-modular-v3/willow.webp
+Loading resource: res://.godot/imported/willow.webp-776a54db9d72bde59ba514e9aaa329ae.ctex remapped: res://.godot/imported/willow.webp-776a54db9d72bde59ba514e9aaa329ae.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/willow.webp' remapped 'res://assets/world/coast-modular-v3/willow.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/bamboo.webp remapped: res://assets/world/coast-modular-v3/bamboo.webp
+Loading resource: res://.godot/imported/bamboo.webp-a9a128b9c011246158bd9f938c5b7bc9.ctex remapped: res://.godot/imported/bamboo.webp-a9a128b9c011246158bd9f938c5b7bc9.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/bamboo.webp' remapped 'res://assets/world/coast-modular-v3/bamboo.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/fountain.webp remapped: res://assets/world/coast-modular-v3/fountain.webp
+Loading resource: res://.godot/imported/fountain.webp-add05265057dcf67c6c8394263bccb6e.ctex remapped: res://.godot/imported/fountain.webp-add05265057dcf67c6c8394263bccb6e.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/fountain.webp' remapped 'res://assets/world/coast-modular-v3/fountain.webp' at thread -1
+Loading resource: res://assets/world/coast-modular-v3/bridge.webp remapped: res://assets/world/coast-modular-v3/bridge.webp
+Loading resource: res://.godot/imported/bridge.webp-1516e2b24e9db4d51f6a331d9f7a3a44.ctex remapped: res://.godot/imported/bridge.webp-1516e2b24e9db4d51f6a331d9f7a3a44.ctex
+Completed load for: 'res://assets/world/coast-modular-v3/bridge.webp' remapped 'res://assets/world/coast-modular-v3/bridge.webp' at thread -1
+Loading resource: res://assets/world/coast-watercolor-v7/props-atlas-loose.png remapped: res://assets/world/coast-watercolor-v7/props-atlas-loose.png
+Loading resource: res://.godot/imported/props-atlas-loose.png-2c7fc5f94a523d8cea07c98fdf3eaefc.ctex remapped: res://.godot/imported/props-atlas-loose.png-2c7fc5f94a523d8cea07c98fdf3eaefc.ctex
+Completed load for: 'res://assets/world/coast-watercolor-v7/props-atlas-loose.png' remapped 'res://assets/world/coast-watercolor-v7/props-atlas-loose.png' at thread -1
+Loading resource: res://assets/world/coast-watercolor-v8/buildings-atlas.png remapped: res://assets/world/coast-watercolor-v8/buildings-atlas.png
+Loading resource: res://.godot/imported/buildings-atlas.png-7cf4c5a38599d83f79a4ef194dfd4138.ctex remapped: res://.godot/imported/buildings-atlas.png-7cf4c5a38599d83f79a4ef194dfd4138.ctex
+Completed load for: 'res://assets/world/coast-watercolor-v8/buildings-atlas.png' remapped 'res://assets/world/coast-watercolor-v8/buildings-atlas.png' at thread -1
+Loading resource: res://assets/world/village-buildings-v9/apothecary.png remapped: res://assets/world/village-buildings-v9/apothecary.png
+Loading resource: res://.godot/imported/apothecary.png-8fb17e205f1565d25aa430a3c5863860.ctex remapped: res://.godot/imported/apothecary.png-8fb17e205f1565d25aa430a3c5863860.ctex
+Completed load for: 'res://assets/world/village-buildings-v9/apothecary.png' remapped 'res://assets/world/village-buildings-v9/apothecary.png' at thread -1
+Loading resource: res://assets/world/village-buildings-v9/tool-shop.png remapped: res://assets/world/village-buildings-v9/tool-shop.png
+Loading resource: res://.godot/imported/tool-shop.png-2d84a416c6d598fc3b7f8afcac763541.ctex remapped: res://.godot/imported/tool-shop.png-2d84a416c6d598fc3b7f8afcac763541.ctex
+Completed load for: 'res://assets/world/village-buildings-v9/tool-shop.png' remapped 'res://assets/world/village-buildings-v9/tool-shop.png' at thread -1
+Loading resource: res://assets/world/village-buildings-v9/outfit-shop.png remapped: res://assets/world/village-buildings-v9/outfit-shop.png
+Loading resource: res://.godot/imported/outfit-shop.png-c8fcbc222fc584a17c49d2e6c61acd6d.ctex remapped: res://.godot/imported/outfit-shop.png-c8fcbc222fc584a17c49d2e6c61acd6d.ctex
+Completed load for: 'res://assets/world/village-buildings-v9/outfit-shop.png' remapped 'res://assets/world/village-buildings-v9/outfit-shop.png' at thread -1
+Loading resource: res://assets/world/village-buildings-v9/craft-workshop.png remapped: res://assets/world/village-buildings-v9/craft-workshop.png
+Loading resource: res://.godot/imported/craft-workshop.png-bc1377d9559aa87d9f0d70c5758f2cfa.ctex remapped: res://.godot/imported/craft-workshop.png-bc1377d9559aa87d9f0d70c5758f2cfa.ctex
+Completed load for: 'res://assets/world/village-buildings-v9/craft-workshop.png' remapped 'res://assets/world/village-buildings-v9/craft-workshop.png' at thread -1
+Loading resource: res://assets/world/village-buildings-v9/village-teahouse.png remapped: res://assets/world/village-buildings-v9/village-teahouse.png
+Loading resource: res://.godot/imported/village-teahouse.png-7b2bf9b8f37e608da3470122779d7eea.ctex remapped: res://.godot/imported/village-teahouse.png-7b2bf9b8f37e608da3470122779d7eea.ctex
+Completed load for: 'res://assets/world/village-buildings-v9/village-teahouse.png' remapped 'res://assets/world/village-buildings-v9/village-teahouse.png' at thread -1
+Loading resource: res://assets/world/coast-watercolor-v8/dock.png remapped: res://assets/world/coast-watercolor-v8/dock.png
+Loading resource: res://.godot/imported/dock.png-0d1cdb886eb3cb5e8a869706125acb0d.ctex remapped: res://.godot/imported/dock.png-0d1cdb886eb3cb5e8a869706125acb0d.ctex
+Completed load for: 'res://assets/world/coast-watercolor-v8/dock.png' remapped 'res://assets/world/coast-watercolor-v8/dock.png' at thread -1
+Loading resource: res://assets/world/coast-watercolor-v8/decor-atlas.png remapped: res://assets/world/coast-watercolor-v8/decor-atlas.png
+Loading resource: res://.godot/imported/decor-atlas.png-1be4b1a6c480ec54a1921d612e14e5ce.ctex remapped: res://.godot/imported/decor-atlas.png-1be4b1a6c480ec54a1921d612e14e5ce.ctex
+Completed load for: 'res://assets/world/coast-watercolor-v8/decor-atlas.png' remapped 'res://assets/world/coast-watercolor-v8/decor-atlas.png' at thread -1
+Loading resource: res://assets/world/coast-tiles-v4/terrain-atlas.png remapped: res://assets/world/coast-tiles-v4/terrain-atlas.png
+Loading resource: res://.godot/imported/terrain-atlas.png-6e315f1ccb01e6c153787a58de215783.ctex remapped: res://.godot/imported/terrain-atlas.png-6e315f1ccb01e6c153787a58de215783.ctex
+Completed load for: 'res://assets/world/coast-tiles-v4/terrain-atlas.png' remapped 'res://assets/world/coast-tiles-v4/terrain-atlas.png' at thread -1
+Loading resource: res://assets/world/coast-tiles-v4/coast-atlas-v2.png remapped: res://assets/world/coast-tiles-v4/coast-atlas-v2.png
+Loading resource: res://.godot/imported/coast-atlas-v2.png-de0e9eb6a9a688197e9f61af251c949e.ctex remapped: res://.godot/imported/coast-atlas-v2.png-de0e9eb6a9a688197e9f61af251c949e.ctex
+Completed load for: 'res://assets/world/coast-tiles-v4/coast-atlas-v2.png' remapped 'res://assets/world/coast-tiles-v4/coast-atlas-v2.png' at thread -1
+INK_VILLAGE_BUILDINGS_PASS
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"
+Leaked instance: AudioStreamWAV:9223372073999533539 - Reference count: 1
+Leaked instance: AudioStreamPlaybackWAV:9223372112016706305 - Reference count: 1
+Hint: Leaked instances typically happen when nodes are removed from the scene tree (with `remove_child()`) but not freed (with `free()` or `queue_free()`).
+Resource still in use: res://assets/audio/footstep.wav (AudioStreamWAV)
+Orphan StringName: Master (static: 0, total: 1)
+StringName: 1 unclaimed string names at exit.

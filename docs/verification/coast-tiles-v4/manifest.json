@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-04",
+  "godot": "4.7.2",
+  "checks": [
+    {
+      "name": "import",
+      "exit_code": 0,
+      "marker": null,
+      "marker_present": true,
+      "stderr_empty": true,
+      "passed": true
+    },
+    {
+      "name": "build",
+      "exit_code": 0,
+      "marker": "INK_WATERCOLOR_TILE_BUILD_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "passed": true
+    },
+    {
+      "name": "capture",
+      "exit_code": 0,
+      "marker": "INK_WATERCOLOR_TILES_PASS",
+      "marker_present": true,
+      "stderr_empty": true,
+      "passed": true
+    }
+  ]
+}

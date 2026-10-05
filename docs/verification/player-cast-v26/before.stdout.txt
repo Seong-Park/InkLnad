@@ -1,0 +1,20 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[godot_ai game_helper] registered mcp capture (debugger active=false, logger=true)
+FAIL cast preserves facing e
+FAIL cast has eight authored poses
+FAIL cast preserves facing se
+FAIL cast has eight authored poses
+FAIL cast preserves facing s
+FAIL cast has eight authored poses
+FAIL cast preserves facing sw
+FAIL cast has eight authored poses
+FAIL cast preserves facing w
+FAIL cast has eight authored poses
+FAIL cast preserves facing nw
+FAIL cast has eight authored poses
+FAIL cast preserves facing n
+FAIL cast has eight authored poses
+FAIL cast preserves facing ne
+FAIL cast has eight authored poses
+CAST_DIRECTION failures=16

@@ -1,0 +1,9 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 - Build 32.0.101.7026 - Compatibility - Using Device: Intel - Intel(R) Iris(R) Xe Graphics
+
+[godot_ai game_helper] registered mcp capture (debugger active=false, logger=true)
+BRUSH_PROFILE idle us/tick=49 damage10=43 ui=239 stamps=0
+BRUSH_RENDER idle median_us=16676 p95_us=17964
+BRUSH_PROFILE brush us/tick=550 damage10=177 ui=175 stamps=233
+BRUSH_RENDER brush median_us=16652 p95_us=17620
+INK_BRUSH_PROFILE_PASS

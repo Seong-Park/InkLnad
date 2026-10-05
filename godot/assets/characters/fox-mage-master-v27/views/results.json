@@ -1,0 +1,121 @@
+[
+  {
+    "direction": "se",
+    "angle": -45,
+    "id": "634b6212-215b-42fa-a098-091048b01882",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-se",
+    "created_at": 1791121564137,
+    "finished_at": 1791121570502,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/57c30889c79d6bfe4d0b5139d460fb8e.webp",
+        "camera_rotation": -45
+      }
+    ]
+  },
+  {
+    "direction": "e",
+    "angle": -90,
+    "id": "26c91824-0542-4195-b00e-75db6669d35a",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-e",
+    "created_at": 1791121567280,
+    "finished_at": 1791121574120,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/e5952f1dfc8f0e9aee1084da8c2f0d01.webp",
+        "camera_rotation": -90
+      }
+    ]
+  },
+  {
+    "direction": "ne",
+    "angle": -135,
+    "id": "c18c1308-8860-4759-89ef-a8d927edb86d",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-ne",
+    "created_at": 1791121568857,
+    "finished_at": 1791121578558,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/86a215ccf6a39fc7c889787b311b8b9c.webp",
+        "camera_rotation": -135
+      }
+    ]
+  },
+  {
+    "direction": "n",
+    "angle": 180,
+    "id": "b3abd33e-ee10-4ee0-9321-b9b269c436eb",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-n",
+    "created_at": 1791121570341,
+    "finished_at": 1791121580404,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/6200f96d907dfe641117a3dbc35084e9.webp",
+        "camera_rotation": 180
+      }
+    ]
+  },
+  {
+    "direction": "nw",
+    "angle": 135,
+    "id": "ac384b70-e50f-40c6-9349-5950e29df95c",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-nw",
+    "created_at": 1791121572024,
+    "finished_at": 1791121595873,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/310d925cd653c457cadbac0a220ade30.webp",
+        "camera_rotation": 135
+      }
+    ]
+  },
+  {
+    "direction": "w",
+    "angle": 90,
+    "id": "c1ed16ba-876c-440c-9e35-0c11d1ecb077",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-w",
+    "created_at": 1791121577333,
+    "finished_at": 1791121585875,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/bea414ff9b5b0a9f2c73e7b883fe3242.webp",
+        "camera_rotation": 90
+      }
+    ]
+  },
+  {
+    "direction": "sw",
+    "angle": 45,
+    "id": "2ebeca54-1ee5-40e1-8839-464f17940f95",
+    "task_type": "rotateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-master-view-sw",
+    "created_at": 1791121578975,
+    "finished_at": 1791121595311,
+    "credits_charged": 0.5,
+    "result": [
+      {
+        "url": "https://storage.googleapis.com/ludo-assets/api/d31d22777e82558242f7a976a163b5f3.webp",
+        "camera_rotation": 45
+      }
+    ]
+  }
+]

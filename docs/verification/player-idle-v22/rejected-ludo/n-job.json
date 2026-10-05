@@ -1,0 +1,19 @@
+{
+  "id": "005d765a-9b4f-49e0-bf31-e0381a75391f",
+  "task_type": "animateSprite",
+  "status": "succeeded",
+  "request_id": "ink-land-v22-idle-native-n",
+  "created_at": 1791113957978,
+  "finished_at": 1791114243415,
+  "credits_charged": 9,
+  "result": {
+    "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/4cde45b3082370aef1f6eebdda32d609.webp",
+    "video_url": "https://storage.googleapis.com/ludo-assets/api/77626d92b951b469c4384e026772121e.mp4",
+    "audio_url": "https://storage.googleapis.com/ludo-assets/api/7cff35c2d5cab525b6b6a2f65dfd0510.mp3",
+    "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-0fbc2ea70c2378edede16b0b7c4cea8d.gif",
+    "num_frames": 36,
+    "num_cols": 6,
+    "num_rows": 6,
+    "duration": 2.2916666666666665
+  }
+}

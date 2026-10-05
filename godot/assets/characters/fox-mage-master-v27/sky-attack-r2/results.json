@@ -1,0 +1,82 @@
+[
+  {
+    "facing": "s",
+    "id": "0ba60701-561a-4d81-9a7c-293767b868d8",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-sky-attack-s-r2",
+    "created_at": 1791125172759,
+    "finished_at": 1791125309677,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/bd4760de15a939c0349fe807819db9f7.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/3025cfb35aa4bd3bafdca1a13383bcbc.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/2a9a3225d8b9c999040f7e55a42bd07f.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-9f84c5e5d2bb420102d5f1819834a65c.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.7083333333333335
+    }
+  },
+  {
+    "facing": "n",
+    "id": "8c5e9d61-8116-4c6a-aecf-a23014809a95",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-sky-attack-n-r2",
+    "created_at": 1791125173232,
+    "finished_at": 1791125310315,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/b41a209a9bf1779c6a502d74559a343f.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/39f17ef20e9562c09d72ea8c2a308c89.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/d1c3a673f54c6f65855b03563fdcd849.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-778411f7f3175290062f2df8ce403e27.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.625
+    }
+  },
+  {
+    "facing": "e",
+    "id": "4f43aa4a-9cf9-4f63-a145-642d6847e558",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-sky-attack-e-r2",
+    "created_at": 1791125173675,
+    "finished_at": 1791125411402,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/434042517f3f4a359e69140e7fead4c1.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/6a8a8bfd667e5ad2cb1a31fda9d02a6b.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/2273e841b7e20a4b494704ef1f844fe5.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-3bd33f4feef787bb312bdc884cb30c70.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.6666666666666665
+    }
+  },
+  {
+    "facing": "w",
+    "id": "84bd43b3-0743-441c-aa1f-a149f33afe6a",
+    "task_type": "animateSprite",
+    "status": "succeeded",
+    "request_id": "ink-land-v27-sky-attack-w-r2",
+    "created_at": 1791125174129,
+    "finished_at": 1791125409798,
+    "credits_charged": 9,
+    "result": {
+      "spritesheet_url": "https://storage.googleapis.com/ludo-assets/api/cafbed73825930765f9bf4c7f9815087.webp",
+      "video_url": "https://storage.googleapis.com/ludo-assets/api/befb013ce11e638ef232bb2a7a5146be.mp4",
+      "audio_url": "https://storage.googleapis.com/ludo-assets/api/effca3e562d440f2a8b386cef1cbc96b.mp3",
+      "gif_url": "https://storage.googleapis.com/ludo-assets/api/6aaa7ff7ff3f4e1a365dfa5e-bbc607f0609c6be03f4549d7e0ceadb4.gif",
+      "num_frames": 36,
+      "num_cols": 6,
+      "num_rows": 6,
+      "duration": 2.7916666666666665
+    }
+  }
+]

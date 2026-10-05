@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-03",
+  "purpose": "이번 채팅의 역할 배정 기록이며 커스텀 agent_type 등록이나 상주 서비스 설정이 아니다",
+  "thread_limit": 4,
+  "runtime_reuse_reason": "완료 스레드도 한도에 남아 새 BE 워커 spawn이 거절되었고 close_agent 도구가 없음",
+  "roles": [
+    {
+      "role": "master",
+      "manager": "user",
+      "runtime_id": "/root",
+      "allocation": "primary",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/master.md"
+    },
+    {
+      "role": "fe-manager",
+      "manager": "master",
+      "runtime_id": "/root/fe_manager",
+      "allocation": "spawned",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/fe-manager.md"
+    },
+    {
+      "role": "be-manager",
+      "manager": "master",
+      "runtime_id": "/root/be_manager",
+      "allocation": "spawned",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/be-manager.md"
+    },
+    {
+      "role": "map-designer",
+      "manager": "fe-manager",
+      "runtime_id": "/root/fe_manager/map_designer",
+      "allocation": "spawned",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/map-designer.md"
+    },
+    {
+      "role": "effect-designer",
+      "manager": "fe-manager",
+      "runtime_id": "/root/fe_manager/effect_designer",
+      "allocation": "spawned then reassigned after completion",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/effect-designer.md"
+    },
+    {
+      "role": "character-designer",
+      "manager": "fe-manager",
+      "runtime_id": "/root/fe_manager/character_designer",
+      "allocation": "spawned then reassigned after completion",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/character-designer.md"
+    },
+    {
+      "role": "gameplay-programmer",
+      "manager": "be-manager",
+      "runtime_id": "/root/fe_manager/effect_designer",
+      "allocation": "followup role reassignment after effect completion",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/gameplay-programmer.md"
+    },
+    {
+      "role": "economy-save-programmer",
+      "manager": "be-manager",
+      "runtime_id": "/root/fe_manager/character_designer",
+      "allocation": "followup role reassignment after character completion",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/economy-save-programmer.md"
+    },
+    {
+      "role": "api-db-programmer",
+      "manager": "be-manager",
+      "runtime_id": "/root/fe_manager/effect_designer",
+      "allocation": "followup role reassignment after gameplay completion",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/api-db-programmer.md"
+    },
+    {
+      "role": "qa-engineer",
+      "manager": "be-manager",
+      "runtime_id": "/root/fe_manager/character_designer",
+      "allocation": "followup role reassignment after economy completion and BE plans submitted",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/qa-engineer.md"
+    },
+    {
+      "role": "planning-agent",
+      "manager": "master",
+      "runtime_id": "/root/planning_agent",
+      "allocation": "spawned",
+      "instructions": "C:/workspace/Ink-Land/docs/agents/planning-agent.md"
+    }
+  ]
+}

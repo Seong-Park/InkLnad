@@ -1,0 +1,46 @@
+[
+  {
+    "facing": "s",
+    "id": "860d4082-1649-4260-b7bd-51a60a06b590",
+    "task_type": "animateSprite",
+    "status": "running",
+    "request_id": "ink-land-v27-sky-attack-s-r1",
+    "created_at": 1791124382498,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "n",
+    "id": "6247331a-5047-47b2-b66a-28f622cc020e",
+    "task_type": "animateSprite",
+    "status": "running",
+    "request_id": "ink-land-v27-sky-attack-n-r1",
+    "created_at": 1791124399615,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "e",
+    "id": "955b8663-fb4e-46be-97b3-f0388732a2f4",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-sky-attack-e-r1",
+    "created_at": 1791124400069,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "w",
+    "id": "01cb6a52-b163-4051-873b-35aec80a9835",
+    "task_type": "animateSprite",
+    "status": "queued",
+    "request_id": "ink-land-v27-sky-attack-w-r1",
+    "created_at": 1791124400501,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "facing": "e",
+    "state": "idle",
+    "id": "ae130172-7384-4ef1-b4bf-7d4376acf443",
+    "task_type": "rotateSpritesheet",
+    "status": "running",
+    "request_id": "ink-land-v27-direction-e-idle",
+    "created_at": 1791121673313,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "e",
+    "state": "walk",
+    "id": "a6665c0c-ae4c-4b23-b719-4524aa7009df",
+    "task_type": "rotateSpritesheet",
+    "status": "running",
+    "request_id": "ink-land-v27-direction-e-walk",
+    "created_at": 1791121673765,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 5000
+  },
+  {
+    "facing": "e",
+    "state": "attack",
+    "id": "02dd4505-cbb9-4e1d-afeb-380cf402031d",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-e-attack",
+    "created_at": 1791121674209,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "w",
+    "state": "idle",
+    "id": "3a124829-b15d-4d28-8613-2d5338e05477",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-w-idle",
+    "created_at": 1791121674683,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "w",
+    "state": "walk",
+    "id": "b66f8eeb-8058-4a5c-ab57-41688ac5e1ea",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-w-walk",
+    "created_at": 1791121675119,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "w",
+    "state": "attack",
+    "id": "5b1e524d-0b70-4101-ad44-edf9a12721c5",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-w-attack",
+    "created_at": 1791121675559,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "n",
+    "state": "idle",
+    "id": "0def68ae-ac38-47a0-a9b0-abbad9d87c1c",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-n-idle",
+    "created_at": 1791121675995,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "n",
+    "state": "walk",
+    "id": "3093f191-4e4f-47e5-ad51-857abecbe84c",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-n-walk",
+    "created_at": 1791121676416,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  },
+  {
+    "facing": "n",
+    "state": "attack",
+    "id": "a5dfdaf4-23ac-47c1-8e3b-4dcadddd9d2d",
+    "task_type": "rotateSpritesheet",
+    "status": "queued",
+    "request_id": "ink-land-v27-direction-n-attack",
+    "created_at": 1791121676860,
+    "finished_at": null,
+    "credits_charged": 9,
+    "poll_after_ms": 2000
+  }
+]
